@@ -1,0 +1,37 @@
+Does the following text relate to the economy? (True/False)
+
+text: """
+To provide that Federal expenditures shall not exceed Federal revenues, except in time of war or grave emergency declared by the Congress, and to provide for systematic reduction of the public debt
+"""
+
+label: True
+
+text: """
+To amend the Internal Revenue Act of 1954 to increase from $600 to $1,200 the personal income tax exemptions of a taxpayer (including the exemtion for a spouse, the exemption for a dependent, and the additional exemptions for old age and blindness)
+"""
+
+label: True
+
+text: """
+A bill to amend the Internal Revenue Code of 1954 to provide special loss carryover rules for insurance companies.
+"""
+
+label: False
+
+text: """
+To provide individuals with access to health information of which they are a subject, to ensure personal privacy, security, and confidentiality with respect to health related information in promoting the development of a nationwide interoperable health information infrastructure, to impose criminal and civil penalties for unauthorized use of personal health information, to provide for the strong enforcement of these rights, to protect States' rights, and for other purposes.
+"""
+
+label: True
+
+text: """
+A bill to amend title XVI of the Social Security Act to reduce from 21 to 18 the age at which a disabled child need no longer include his parents' income in determining his eligibility for supplemental security income benefits or the amount of such benefits.
+"""
+
+label: False
+
+text: """
+{content}
+"""
+
+label: 

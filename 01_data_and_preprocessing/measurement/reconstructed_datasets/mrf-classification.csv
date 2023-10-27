@@ -1,0 +1,3501 @@
+,original_index,context,labels,prompts,gold,q_flan-t5-small,q_flan-t5-base,q_flan-t5-large,q_flan-t5-xxl,q_flan-ul2,q_text-babbage-001,q_text-curie-001,q_text-davinci-001,q_text-davinci-003,q_chatgpt
+0,1173,Bacterial lung infections are increasing because of face masks,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,b,b,a,b,b,b,a,a
+1,2075,Fenugreek Seed Tape Can Cure Throat Infection During COVID-19,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,b,b,b,a,b,a,a,a,b
+2,1,"Climate crisis: Remote glaciers in China melting at 'shocking' pace, risking water shortages",Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,b,b,b,b,a,b,b,b
+3,19,How The COVID Relief Bill Turned Into A Climate Change Bill,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,b,a,b,b,a,a,b
+4,1873,The senate of Berlin admitted that PCR tests are a scam and can't detect infections,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,b,b,a,a,a
+5,392,Rusting oil tanker could create one of the worst environmental disasters in history,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,b,b,b,b,a,b,a,b
+6,465,John Kerry's Think Tank Calls for War With Russia Over Climate Change,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,b,b,a,a,a
+7,482,Joe Biden unlikely to cancel Trump's Space Force but could use NASA to help in climate crisis fight,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,b,b,b,b,b,a,a,b
+8,1511,Bogot has more ICU beds than Peru and Chile.,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,b,b,a,a,b
+9,2009,"CoronaVac, a chinese vaccine candidate being tested in Brazil, causes 10 types of cancer and suicidal thoughts",Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,b,b,a,a,a
+10,343,Trump says Paris climate agreement 'was designed to kill US economy',Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,b,b,a,a,a
+11,1847,"The total number of deaths in the U.S. this year is significantly down compared to previous years, so COVID-19 restrictions weren't needed.",Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,b,a,a,a,b,b,a,a,a
+12,1808,Event 201 held by The Johns Hopkins Center for Health Security in 2019 was a scenario plotted about the coronavirus pandemic,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,b,b,b,a,a,b,b
+13,1843,"Media outlets reports that the World Health Organization has stated that wearing a mask while playing sports ""decreases the availability of oxygen"" or ""increases the levels of carbon dioxide we absorb.""",Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,b,b,a,a,a
+14,131,Sudden reversal of Australia's climate change policy ,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,b,a,b,b,a,a,b
+15,1957,Quarantine measures are a manifestation of Marxism and fascism in the modern world.,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,b,b,a,a,a
+16,1171,CoronaVac vaccine killed a volunteer from clinical tests,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,b,b,a,b,a,a,a,b
+17,2112,Doctors prove why the pandemic is fascism and the extermination of humanity.,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,b,a,a,a,a
+18,1871,Sars cov 2 mutations make the vaccine useless,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,b,a,a,a,a
+19,380,Congress' Christmas Tree COVID Bill Loaded with Climate Ornaments,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,b,b,a,a,b
+20,420,Trump Screwed The US On Climate Change. Can Biden Save It?,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,b,b,b,b,a,a,b
+21,167,Trump Urged to Send the Paris Climate Treaty to the Senate,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,b,b,b,b,b,a,a,b
+22,241,U.N. Chief orders world leaders: Declare a climate emergency or face 'catastrophic' results,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,b,b,b,b,a,a,b,b
+23,1142,HOSPITALS ON LOCKDOWN AS FIRST COVID VACCINE PATIENTS START EATING OTHER PATIENTS,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,b,a,b,a,a
+24,1688,Areas Of Lucknow Sealed To Check Outbreak Of New Covid Strain,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,b,b,b,b,b,a,b,b,b
+25,483,Biden must be our 'climate president'. He can start by ending pipeline projects | Faith Spotted Eagle and Kendall Mackey,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,b,b,b,b,b,b,a,a,b
+26,1507,Wearing face masks to help stop the spread of Covid-19 will cause children physical and psychological problems.,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,b,b,a,a,a
+27,1881,So Paulo's governor Joo Doria wears mask with China's flag,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,b,b,a,a,b
+28,1984,A man and 50 women have tested positive for COVID-19 after having sex,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,b,a,b,b,a,a,b
+29,1894,CoronaVac vaccine caused neurological inflammation in volunteer from clinical tests that died,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,b,a,b,a,b
+30,1462,"Home Ministry Orders To Close Schools, Colleges due to Covid",Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,b,b,a,b,b,b,b,b
+31,1145,In Spain there is more probability of falling ill from the vaccine than from the COVID-19,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,b,b,a,a,a
+32,1727,Rapidly developed pharmaceuticals such as the Covid-19 vaccines comparied to a sedative from the 1950s that caused serious birth defects.,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,b,b,b,a,b
+33,1709,Cure for coronavirus can never be found: WHO,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,b,b,a,b,b,a,a,a
+34,186,New Footage Reveals Netflix Faked Walrus Climate Deaths,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,b,b,a,a,a
+35,469,How climate change is threatening Greenland,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,b,b,b,b,a,a,b,b
+36,1966,Pictures show that people can lift fake dead bodies of Covid victims with one hand,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,b,a,b,a,b
+37,259,Joe Biden's Climate Cabinet Emerging,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,b,b,b,b,b,a,b,b
+38,1648,Bill Gates says vaccines are poison,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,b,b,a,a,a
+39,368,"Ted Cruz has a plan to keep Biden from rejoining disastrous Iran deal and Paris climate accord, but he needs Trump's help",Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,b,b,b,a,a,b
+40,1683,Some celebrities got the vaccination before their turn,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,b,b,b,a,a,a,a
+41,1637,"The Covid pandemic is a plan to depopulate all of humanity on the planet, through a fictional virus, deadly, through bribed media, through bribed governments, with one basic goal  to achieve the goal of World War III, and that is the absolute control of every human being on the planet.",Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,b,b,a,a,a
+42,1493,"Lula's son, Fabio Lula da Silva, and Joo Doria, governor of So Paulo, conspired to buy stocks from Sinovac. Nowadays, Lula's son owns 20% of the company",Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,b,b,b,a,b
+43,441,Tories slammed for lack of progress on environment promises made nine years ago,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,b,b,b,b,a,a,b
+44,466,John Stossel  The Climate Hustle,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,b,a,a,b,b,a,a,b
+45,1132,"The spread of the COVID-infection through vaccines is proved by cases of people in a nursing home in Germany as well as in Israel, who got infected after the vaccination.",Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,b,b,b,a,b,a,b,a,b
+46,33,Bastardi: Fauci's climate pandemic comments more predictable than weather,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,b,a,a,a,b
+47,223,"UK Climate Assembly's 'recommendation' is that meat & dairy consumption be reduced by 20-40%  In fact, just ten people made that recommendation",Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,b,b,a,a,a
+48,1678,Covid vaccines can cause infertility and harm the embryo; pregnant women were not included in the test trials with intention to hide the harm,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,b,a,a,a,a
+49,51,"JunkScience.com's Steve Milloy testifies at PA Dept of Env. Protection climate hearing: 'RGGI will accomplish nothing for the environment, climate or public health. Instead, energy prices will increase, making Pennsylvania & Pennsylvanians poorer'",Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,b,b,a,a,b
+50,1650,"CDC COVID-19 survival rates are 99.997% for people ages 0 to 19, 99.98% for people ages 20 to 49, 99.5% for people ages 50 to 69, and 94.6% for people over 70.",Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,b,a,b,b,b,b,b,a,b
+51,384,"Just 4bn of new money for Boris Johnson's climate emergency plan, Cabinet minister admits",Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,b,a,b,b,b,a,a,b
+52,1745,Coronavirus vaccine contains pig fat,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,b,a,a,a,b
+53,143,Harvard School of Public Health links Climate & COVID: 'The root causes of climate change also increase the risk of pandemics'  'We also need to take climate action to prevent the next pandemic',Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,b,b,b,b,b,a,b,b,b
+54,244,Trump Rushes to Weaken Environmental and Worker Protections Before January 20,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,b,b,b,b,a,a,b
+55,1175,A natural treatment for coronavirus,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,b,b,b,a,b,a,a,a,a
+56,1985,The Lancet denied the existance of the covid pandemic,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,b,b,a,a,a
+57,490,Aussie Scientist Dr. Jennifer Marohasy on climate change: 'Better a question that cannot be answered than an answer that cannot be questioned',Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,b,b,b,b,b,a,a,a,b
+58,87,"Wait, what?! Prince Charles now says world is 'literally at the last hour' in fight against climate change  But he previously issued 10 year, 18 month, 100 month & 35 year tipping points",Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,b,b,a,a,b
+59,7,New Jersey environmental commissioner retiring in January,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,b,b,b,b,b,a,a,b,b
+60,38,"Senior Biden adviser set for key role has ties to oil and gas, climate activists warn",Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,b,a,a,b,b,a,a,b
+61,495,"Fmr. Obama advisor Lawrence H. Summers on COVID lockdown's impact: '$200,000 per family or 90% of a year's GDP'  '4x output loss of Great Recession, 2x cost of all wars since 9/11, & roughly cost of climate change in next 50 years'",Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,b,b,b,a,a,b
+62,1574,"An Assemblies of God pastor named Venceslau died after taking a COVID-19 vaccine, in Araguana, Tocantins state",Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,b,b,a,b,b,a,a,b
+63,1615,"Ignoring vaccination groups priorities, Brazilian soccer player Neymar cuts in vaccine line",Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,b,b,a,a,a
+64,398,Environmental disasters across globe in November 2020,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,b,a,a,b,a,a,b,b
+65,1156,"Alleged head of El Mundo who says that Araceli, the first person vaccinated in Spain, has died 24 hours after administering the vaccine",Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,b,b,a,a,a
+66,1614,The ARNm vaccine changes DNA.,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,b,a,a,a,b,a,b,a,a
+67,207,"Vulnerable to climate change so the rich can play golf': An untouched island, a billionaire 'environmentalist' and a legal fight over a luxury resort",Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,b,a,b,b,a,a,b
+68,98,Climate Activists Put Aside Their Differences With Biden To Help Get Him Elected. Now They Want Results.,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,b,a,b,b,b,b,a,b,b
+69,1163,"A ""virus removal card"" that can prevent infection from Covid-19 when worn around the neck.",Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,b,b,a,a,b,b,a,a,a
+70,1652,We do not need a vaccine. We need a body that can resist this and any other virus,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,b,a,a,a,a
+71,1900,Rubbing butter in the nose helps restore the loss of smell caused by Covid-19,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,b,a,a,a,b,b,b,a,a
+72,1560,"The Venezuelan government lied when it claimed to have donated oxygen to Manaus. Actually, the oxygen that went from Venezuela to Manaus was imported by White Martins",Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,b,b,a,a,a
+73,341,"Joe Bundrant says environmental legislation threatens fishing in Akutan, Alaska",Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,b,b,a,b,b,b,a,b
+74,1820,"In Poland, there will be a mandatory vaccination against coronavirus.",Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,b,b,b,b,b,a,b,a,b
+75,1907,"Immunologist Tasuku Honjo stated that the coronavirus is a man-made virus, intentionally manufactured in a lab",Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,b,b,a,b,a,a,a,a
+76,218,The MADNESS HAS STARTED! Biden Picks JOHN KERRY to Lead Climate Agenda.,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,b,a,a,a,b,b,a,a,b
+77,363,Trump: Climate Pact Biden Wants to Rejoin Could 'Kill the American Economy',Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,b,b,a,a,a
+78,1759,Australian vaccine for COVID-19 gave volunteers HIV,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,b,a,a,a,a
+79,453,Border wall has inflicted 'incalculable' damage on surrounding land: environmental activist,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,b,a,b,b,b,a,a,b
+80,1835,Over-the-counter products such as vitamins and tonic water are the key to tackling the pandemic.,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,b,a,a,a,b,a,b,a,a
+81,1620,"Metro Manila will be placed on lockdown or modified enhanced community quarantine (MECQ) on Saturday, December 19.",Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,b,b,b,b,a,b,a,b
+82,1887,The Club of Rome is working to reduce the world's population to one billion.,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,b,a,a,a,b,b,a,a,a
+83,365,"The US's ""Best"" University Fuels the Climate Crisis. Princeton Must Divest.",Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,b,b,b,b,a,a,b
+84,331,"Workers' rights and environmental protections 'easily eroded' by Brexit trade deal, think-tank warns",Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,b,b,b,b,b,a,b,b
+85,1726,A doctor died in Miami after being vaccineted,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,b,a,b,a,a,a,b
+86,1821,"The DNA and RNA-based vaccines, including the coronavirus vaccine, cause changes in human genetics.",Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,b,a,b,a,a
+87,1982,"According to Norwegian and British scientists, SARS-CoV-2 is artificially generated",Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,b,b,a,b,a,a,a,a
+88,192,EU leaders pull all-nighter discussing climate change as Brexit forgotten,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,b,a,b,b,a,b,b
+89,2018,"A Japanese Nobel laureate professor Tasuku Honjo, who has worked with researchers from Wuhan University for 4 years, stated that the coronavirus didn't evolve naturally. If the coronavirus was natural, it'd only impact countries in the same climate zone as China  It would spread only in cold places, and die in hot places.",Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,b,b,b,a,b,a,a,a,a
+90,1513,The creator of the PCR tests said that they do not detect the new coronavirus,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,b,a,a,a,a
+91,1589,"Carlos Bolsonaro, son of President Jair Bolsonaro, skipped the line and received a dose of the Covid-19 vaccine",Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,b,b,a,b,b,b,a,a
+92,1836,People will be killed for violating quarantine restrictions. It has already happened in Albania.,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,b,b,a,a,b
+93,127,Boris Johnson will have to raise his game to ensure climate targets are met,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,b,b,b,b,b,a,b,b
+94,1475,Bee venom protects from COVID-19,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,b,b,b,a,b,b,a,a,b
+95,1425,US rapper Pitbull claims Covid-19 pandemic was planned,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,b,b,a,a,a
+96,1517,Colombia is the last country of southamerica to start of vaccination,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,b,a,a,b,b,a,a,b
+97,2122,Luciferase enzyme in vaccines will change our genes,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,b,a,a,b,a,a,a,a
+98,1627,COVID-19 Vaccine destroys the immune system,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,a,a,a,a,a
+99,444,"Donald Trump's Press Conference Echoed Father's 'Fake Work Environment' Amid Dementia Struggle, Pundit Says",Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,b,b,a,a,b
+100,232,Public Distrust in Science Made COVID Worse. It Will Also Harm Climate Policy.,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,b,b,a,a,b
+101,86,White House plans to put 'denier' in charge of climate program,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,b,b,a,a,a
+102,1724,"A rise in tiny particle air pollutants, known as PM 2.5, will significantly increase the mortality rate of Covid-19 in Thailand.",Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,b,b,a,b,b,a,a,b
+103,59,You were warned: COVID lockdowns morph to Climate Lockdowns?! Biden urged to invoke 'a climate emergency'  'Could give Biden the authority to circumvent Congress',Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,b,b,a,a,b
+104,2039,"The pandemic was planned intentionally. The documentary called Plandemic has exposed a COVID-19 ""criminal operation.""",Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,b,a,a,a,b,a,a,a,a
+105,258,New Study Effectively Eliminates Confidence In Human Attribution For Modern 'Global Warming'  'Uncertainty about 80 times greater than anthropogenic signal detection',Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,b,a,a,b,b,b,a,a,b
+106,3,Obama criticizes Americans for liking 'cheap gas and big cars' more than 'the environment'  Only way to prevent oil spills 'was to stop drilling entirely',Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,b,b,a,a,b
+107,2023,"Persimmon kills coronavirus, according to the study by Japanese scientists.",Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,b,b,b,b,a,a,b,a,b
+108,224,General Motors abandons Trump in lawsuit fighting California on its own climate rules and vows to work on crisis with Biden,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,b,b,b,b,b,a,b,b
+109,103,Biden-linked team rolls out climate plan  Seeks to 'create a new National Climate Council',Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,b,b,b,b,a,a,b,b
+110,136,Chemical injected in town's drinking water called 'an environmental injustice',Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,b,a,b,a,b,a,b
+111,1952,"WHO has taken a U-turn and now says that Coronavirus-infected patients neither need to be isolated, nor quarantined, nor needs social distancing. It further claims that the infected people cannot even transmit virus from one patient to another",Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,b,a,b,a,a,a,a
+112,256,Trump Officially Leaves Paris Agreement After Years of Environmental Wreckage,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,b,b,a,b,b,b,a,b
+113,1933,"WHO and ICMR have issued a warning. It claims that WHO and ICMR warn that India is all set to enter the third stage transmission of the coronavirus and if left unchecked, the total death count by the coronavirus outbreak in India could reach the number of 50,000 by March.",Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,b,a,b,a,b,a,b
+114,401,New Zealand's Jacinda Arden declares 'climate emergency' after conquering COVID-19,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,b,b,a,b,a,a,b,b
+115,1780,The laboratory in Wuhan is owned by Glaxo,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,b,b,a,b,a,b,a,b
+116,1401,Event 201 shows that the pandemic was planned,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,b,b,b,a,b,a,a,a,a
+117,1655,Kamala Harris vaccination against COVID-19 was staged,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,b,b,a,a,a
+118,1537,Italy has opened 'concentration camps' to 'confine children plagued by the virus',Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,b,b,b,a,a
+119,128,White House is a 'toxic' environment now as Trump staffers plot their exits,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,b,b,b,b,a,a,b
+120,1165,"Politician Markus Sder faked his vaccination, there was a cap on the needle",Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,b,b,a,a,a
+121,2078,Vaccine volunteers are not being told they are part of a clinical trial,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,b,a,a,a,a
+122,69,Scott Morrison's climate language has shifted  but actions speak louder than words,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,b,b,b,b,b,a,a,b
+123,1609,A man blowing vape smoke through various face masks shows that they do not help prevent the spread of coronavirus,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,b,b,a,a,a
+124,1838,Bill Gates aims to reduce the world population with vaccines,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,b,b,a,a,b,b,a,a,a
+125,1950,The article in the journal proves that the COVID-19 pandemic was planned two years ago.,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,b,b,b,a,b,a,a,a,a
+126,203,NPR Reverts to State-Run Radio with Socialist Softballs for Climate Czar John Kerry,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,b,b,a,a,a
+127,195,We Need Climate Leaders in Biden's Administration,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,b,b,b,b,b,b,a,b,b
+128,2099,The COVID-19 vaccine could produce sterility and mass extermination,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,b,b,a,a,a
+129,1959,"World Health Organization used so-called Drosten tests as a basis for infection-indicators and announced pandemic right afterward. In reality, Drosten tests do not work and it shows false-positive results proof of which is Tanzanian president who tested Drosten tests on a goat, papaya, and engine oil and got positive test results.",Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,b,b,a,a,a
+130,2110,An Indian politician is celebrating Diwali with lit sparklers and flouting coronavirus restrictions in November 2020.,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,b,a,a,a,b
+131,2101,South Korea's Seoul Metropolitan Government has banned churches from displaying and using Bibles during their services.,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,b,a,b,b,b,a,b
+132,1423,"A German law proves that the measures to fight Covid-19 in Germany will last until December 31, 2021.",Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,b,b,b,b,b,b,b,b,b
+133,1895,Study shows 80% of the alcohol gel sold in Brazil is not effective against Sars-Cov-2,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,b,a,b,a,b,a,b
+134,1657,This Chinese study proves asymptomatic are not contagious,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,b,b,a,b,a,a,a,b
+135,34,German MP suggests restrictions 'similar' to Covid-19 lockdowns to fight 'climate change'  Warns 'there will never be a vaccine against CO2',Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,b,b,a,a,b
+136,1922,The purpose of quarantine is to destroy small and medium-sized businesses.,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,b,b,a,a,a
+137,1773,Anthony Faucci was not vaccinated,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,b,a,b,a,a,a,a
+138,1755,Allergy pills work against COVID-19 and reduce its transmission,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,b,b,b,a,b,a,b,a,a
+139,1490,"Google translation of ""surivan or oc"" (coronavirus written backwards) results in Google search result of ""Masonic sign"" pyramid and eye",Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,b,a,a,a,a
+140,1788,"Georgians will be used as ""test rats"" of dubious quality vaccine, which explains the fact that Georgia is going to be the first country to be given a new vaccine.",Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,b,b,a,a,a
+141,371,Fauci: 'We have entered the Pandemic Era' because of Climate Change,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,b,b,b,b,a,a,a,a
+142,1215,The Wuhan Virology Laboratory has a link with GSK and Pfizer,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,b,a,b,a,b,a,b
+143,1767,Italian scientists tested kiwis with the Covid-19 test and the test was positive.,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,b,a,b,a,b,a,b,a,b
+144,1764,Study published in Nature shows that asymptomatic people do not transmit COVID,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,b,b,b,b,b,a,a,a,b
+145,1447,"Colombian Defense Minister Carlos Holmes Trujillo, who died of COVID-19, was infected at a party.",Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,b,b,a,b,a,b,a,b
+146,1413,53 people have died in Gibraltar after receiving the vaccine against COVID-19,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,b,a,a,b,b,a,a,a
+147,1785,Vitamin D insufficiency may account for the majority of COVID-19 deaths,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,b,b,b,b,b,a,a,b
+148,2097,The World Health Organization (WHO) has designated the Russian Covid-19 vaccine as the official inoculation against the coronavirus.,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,b,b,b,b,b,a,b,b,b
+149,308,Climate change protester climbed up Big Ben wearing Boris Johnson wig and green leotard,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,b,b,a,a,b
+150,48,"Associated Press: Five years on, signs that Paris climate accord is working: CO2 emissions 'barely rose globally from 2018 to 2019, then dropped 7% this year because of the pandemic, although it'll likely rise again'",Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,b,b,b,b,b,b,b,b,b
+151,1229,Chlorine dioxide is an alternative to vaccination against COVID-19,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,b,a,a,b,b,a,a,a
+152,1492,"Atlanta baseball legend Hank Aaron's death linked to his Moderna Covid-19 vaccination,",Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,b,a,b,b,a,a,a
+153,286,"Merkel: US, Germany must stand together on climate change",Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,b,b,b,b,b,a,a,b,b
+154,1816,"Vaccines cause autism, while Remdesivir causes death",Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,b,a,a,a,a
+155,2010,Japanese scientists concluded that face shields and masks are pointless,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,b,b,a,b,a,a,a,a
+156,1897,"This ""documentary"" ""Hold-Up"" says it unveils secrets and lies about covid",Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,b,b,a,a,a
+157,1576,Colombian doctor Manuel Elkin Patarroyo says that the immunity produced by vaccines against COVID-19 is short-lived.,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,b,b,a,b,b,a,a,b
+158,1508,Chlorine dioxide is non-toxic,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,b,b,a,a,b,a,a,a,b
+159,116,Biden's Climate Cabinet Picks Show Power of People-Led Movements,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,b,b,b,b,b,a,a,b,b
+160,1681,A new test by Biomrieux will be able to distinguish between SARS-CoV-2 and influenza virus  so this wasn't possible before,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,b,b,b,b,b,a,b,b,b
+161,41,Can polar bears survive the climate crisis?,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,b,b,b,a,a,a,b
+162,366,Biden Would Make Combating Climate Change an 'All-of-Government Agenda',Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,b,b,b,b,b,a,a,b,b
+163,273,"Biden announcing COVID task force  Claims voters have 'given us a mandate for action on COVID, the economy, climate change, systemic racism'",Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,b,b,b,a,b,b
+164,1831,"A court in Dsseldorf, Germany has just approved a ban on the use of masks in schools and at work",Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,b,b,b,b,b,b,b,b,b
+165,229,"Ancient society adapted & flourished in face of climate change, archaeologists discover",Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,b,b,b,b,b,a,b,b,b
+166,1516,Guava leaf may cure or prevent COVID-19,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,b,b,b,a,b,a,a,a,a
+167,1214,A paramedic reports 40 injured and 7 severely injured people at the Coronavirus demonstration in Berlin on November 18th,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,b,b,a,b,a,a,b,b
+168,13,"Online shopping: Great for bargains, terrible for the environment",Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,b,b,b,b,b,a,b
+169,317,"Biden pledges in his speech to combat coronavirus, racism, climate change",Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,b,b,b,b,b,a,a,b,b
+170,202,What would it mean for museums to actively shape radical climate action?,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,b,b,b,b,b,a,a,a,b
+171,209,Paris Agreement anniversary: What needs to happen in the next five years to tackle the climate crisis?,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,b,b,b,b,b,a,a,b
+172,54,Global leaders  except for Trump  move on from pandemic to confront 'climate emergency',Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,b,b,b,b,b,a,a,b,b
+173,359,False Religion: Congress' Christmas Tree Bill Loaded with Climate Ornaments,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,b,b,a,a,b
+174,1136,People who've previously been infected with COVID-19 shouldn't take vaccine,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,b,a,b,b,a,a,a
+175,1774,Pandemic is a fraud and RT-PCR tests aren't trustworthy,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,b,a,a,a,a
+176,301,Climate Anxiety: Navigating Our Emotions as the Planet Changes,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,b,b,b,b,a,a,b,b
+177,1914,"Covid-19 is a scam, throw away your masks. The ""big awakeining"" is happening in the world",Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,b,b,a,a,a
+178,162,This is what's really needed in a plan to battle the climate crisis,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,b,b,b,b,b,b,a,b,b
+179,240,How Joe Biden and John Kerry could rebuild America's global climate leadership,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,b,b,b,b,b,b,b,b,b
+180,364,"Firefighters on 'frontlines of climate crisis' without enough support, warns union chief",Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,b,b,b,b,b,b,b,b
+181,1826,AstraZeneca/Oxford Covid-19 vaccine contains MRC-5 cells originally taken from an aborted human foetus.,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,b,b,a,a,a,a,b,a,b
+182,141,RICH LOWRY: Joe Biden's climate agenda is all about creating a crisis  not actually fixing one.,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,b,b,a,a,b
+183,1865,CoronaVac vaccine is not safe and was not tested in the elderly,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,b,a,a,a,a
+184,2007,"The university of virologist Christian Drosten lied about his doctoral thesis. His degree is not valid because there was no ""Revisionsschein""",Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,b,a,a,a,b
+185,1839,Mouthwash kills coronavirus in 30 seconds,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,b,b,b,a,b,b,b,a,b
+186,1562,All vaccines contain nagalase enzyme. This enzyme causes depopolation.,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,b,a,a,a,a
+187,107,"Biden introduces his climate team  Touts 'more people of color in our Cabinet than any Cabinet ever, more women than ever'",Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,b,a,b,b,b,a,b,a,b
+188,1182,"Rinsing your mouth with cold salt water, drinking water and red wine, taking vitamin C, and eating chicken broth will prevent Covid-19 from advancing.",Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,b,a,a,a,b,b,b,a,a
+189,222,The 2020 US elections: A climate for change?,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,b,b,b,b,b,a,b,b
+190,16,"Finally': In potential nod to Biden win, Federal Reserve applies to join climate network for central banks",Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,b,b,b,b,b,a,b,b
+191,1659,The new strain of coronavirus was announced by Boris Johnson. Scientists have not made any statement on the issue.,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,b,a,a,a,b
+192,1818,Train passengers breached social distancing guidelines following the resumption of local railway services.,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,b,a,b,a,b,a,b
+193,2066,Healthcare professionals offered home remedies for people who do not want to risk going to the hospital immediately,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,b,b,b,b,b,a,b,a,b
+194,2084,These tests on apple sauce and Coke show antigenic tests are useless,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,b,a,a,a,b
+195,2073,"As a lockdown measure, Ukraine will close all borders for the New Year and Christmas period.",Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,b,a,b,a,b,a,b,b,b
+196,226,"Degrowth: Economic growth is bad for the climate, Europe's Science Academies claim  Seek replacing with 'indicators of human well-being'",Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,b,b,b,b,a,a,a,b
+197,2077,"German minister for health, Jens Spahn, said that you can expect a fine of 25.000 euros when you don't get the mandatory vaccine",Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,b,a,a,a,b
+198,1578,"Csar Tralli was caught rollerskating on Leblon beach, Rio de Janeiro, without masks",Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,b,a,b,b,b,a,b
+199,362,Jacinda Ardern defends environment policies after Greta Thunberg criticises New Zealand's 'so-called climate emergency declaration',Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,b,b,b,b,b,a,a,b
+200,2120,"In Ukraine, the first person fell ill with COVID-19 in December, and quarantine was introduced only in March.",Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,b,a,a,a,b,a,b,a,b
+201,1841,Moderna's vaccine is 100% effective.,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,b,b,b,a,b,a,b,a,b
+202,1800,"Coronavirus was detected in coca-cola in Austria, i.e., tests are incorrect.",Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,b,a,a,a,a
+203,2056,"In a voice message a woman claims in pharmacies they sell Covid tests with preset outcomes because there are boxes with inscriptions ""positiv"" and ""negative"" on them",Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,b,b,a,a,a
+204,1515,Only South Koreans have Covid-19 antibodies,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,b,a,a,a,a
+205,1594,Prof. Dr. Ates Kara told that transmission via bread is possible,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,b,b,a,a,b,b,b,a,b
+206,1233,So Paulo government spent R$ 22 billion with CoronaVac to immunize the population of the state,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,b,b,b,b,a,b,b,b
+207,1768,"The picture shows the Mayor of London  Sadiq Aman Khan, being vaccinated in front of a camera  with an unopened needle cap and a white shirt.",Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,b,a,b,b,b,b,b
+208,1472,A man vaccinated with Pfizer's COVID-19 vaccine showed symptoms of Ebola as he bled out all over his body and died.,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,b,a,a,b,a,a,a,a
+209,219,"Councils reporting thousands of 'climate-related' incidents, including flooding",Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,b,b,b,b,b,b,b
+210,1921,Bill Gates refuses to vaccinate his own children.,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,b,a,a,b,b,a,a,b
+211,67,Flashback 2014: 'Why Secretary of State John Kerry Is Flat Wrong on Climate Change',Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,b,b,a,a,a
+212,1708,"To prevent COVID, for the first three days with symptoms, people should take azithromycin and ivermectin.",Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,b,a,b,a,a,a,b,a,a
+213,2025,The pandemic is a plan organized by George Soros to reduce the size of the global population,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,b,b,a,a,a
+214,1504,WHO and UN will give 1.7 crore as COVID relief fund,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,b,b,b,b,a,b,a,b
+215,1544,(In response to a question about the proposed amendment to the Infectious Diseases Law to impose imprisonment on patients who refuse to be hospitalized) the National Governors' Association has also submitted an urgent proposal for the establishment of penalties.,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,b,a,b,b,b,a,b,b,b
+216,1500,Pfizer vaccine responsible for 23 deaths in Norway,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,b,a,b,a,a,a,b
+217,1636,The first package of vaccines against COVID-19 that has arrived in Spain has the logo of a microchip company,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,b,a,a,b,b,b,b,a
+218,2061,Vanuatu recognized the effectiveness of the Russian vaccine.,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,b,b,b,b,b,a,b,b,b
+219,1555,Coronavirus is man-made,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,b,a,a,b,a,a,a,a
+220,120,Watch Fonda convince herself we are in a climate emergency in a debate with  herself. Are you convinced after watching this?,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,b,a,a,a,a,a,a,a,b
+221,1533,Italian doctor convicted for killing some patients to open beds in ICU unit,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,b,a,b,b,a,a,b
+222,1747,The end of total quarantine: the Cabinet of Ministers of Ukraine has just made a decision.,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,b,b,b,b,b,b,b,b,b
+223,1465,"Police have detained discredited US researcher Judy Mikovits for ""discovering evidence that deadly retroviruses are transmitted through vaccines"".",Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,b,b,a,a,a
+224,478,How significant is Biden's commitment to climate change?,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,b,b,b,b,b,b,a,b,b
+225,1433,Half of the hospital staff in Zgierz were very sick after vaccination against COVID-19. Some people died.,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,b,a,b,a,a,a,a
+226,1875,Pope Francis has stated that one will not be allowed to enter paradise without having had the COVID-19 vaccination.,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,b,a,a,a,b,b,b,a,a
+227,2028,SARS-CoV-2 was made in chinese laboratory,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,b,a,a,b,a,a,a,a
+228,1631,"French lab's research shows that COVID-19 is very resilient. 90C water can't kill it, nor the nanoneedle; the virus bounced back immediately once the needle was removed.",Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,b,a,b,a,b,a,b,a,b
+229,1188,The drug called Ivermectin completely prevents the transmission of COVID-19,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,b,b,a,a,b,a,b,a,a
+230,479,The Dr. Fauci of Climate': Activist Penn State Prof. Michael Mann promoted for Climate Czar in Biden Admin.  Climate lockdowns coming?!,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,b,b,a,a,a
+231,1549,"Baseball legend Hank Aaron's ""tragic death is part of a wave of suspicious deaths among elderly closely following administration of COVID vaccines.""",Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,b,b,a,a,a
+232,1135,American nurse died after receiving vaccine against COVID-19,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,b,b,a,b,a,a,a,b
+233,231,"Former aide to Gov. Andrew Cuomo accuses him of sexual harassment, toxic environment",Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,b,b,b,b,b,a,b,b
+234,1876,The only country to raise the price of gas and utilities during the pandemic is Ukraine.,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,b,a,b,a,b
+235,300,"Ten years ago we predicted how 2020 would turn out. From Boris as PM to the climate crisis, here's what we got right and wrong",Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,b,b,b,b,a,a,b
+236,228,Science Crushes Rolling Stone's Claimed Link Between COVID & Climate,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,b,b,a,a,b
+237,6,"Janet Yellen says she'll use the Treasury Dept. to address racial inequality, ""gender disparities,"" and ""the climate crisis",Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,b,b,b,b,b,b,a,b,b
+238,1899,First Georgian has already received a chip implant and microchips are to be implanted to the entire humankind until 2025,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,b,b,a,a,b,b,b,a,a
+239,1854,Italian MD Roberto Petrella's multiple claims about COVID-19 tests and vaccines,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,b,b,a,a,a
+240,1403,Masks cause hypercapnia,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,b,b,b,a,a
+241,1126,An Argentine Army nurse died after receiving the Sputnik vaccine,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,b,a,a,a,b
+242,251,Climate crisis: Melting mountain ice reveals ancient artefacts in Norway,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,b,b,b,b,b,b,b,b
+243,264,Swiss electorate to vote in referendum on corporate environmental and human rights responsibilities,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,b,b,b,b,b,a,b,b
+244,1916,Viral text says that Wuhan biological laboratory is owned by Glaxo and Pfizer laboratories,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,b,a,a,a,a
+245,1991,Mandatory wearing of masks does not help to stop COVID-19.,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,b,a,a,a,a
+246,468,Best-selling skeptical book 'The Politically Incorrect Guide to Climate Change' ranks 14th in Book Authority's '100 Best Climate Change Books of All Time',Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,b,b,b,b,b,b,a,a,b
+247,1404,Face mask use causes lung cancer,Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,b,b,a,b,b,a,a,a
+248,481,"Eastern States Inching Toward New Regional Climate Pact That Could Cut Carbon Emissions, Raise Gas Prices",Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,b,b,b,b,b,b,b,b
+249,2088,"The 90-year-old British grandmother who became the first person in the world to receive the Pfizer-BioNTech Covid-19 vaccine outside of a clinical trial was previously pictured receiving the Covid-19 vaccine in a CNN news report in October 2020, at least two months before the UK vaccination drive started.",Misinformation,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,b,a,b,b,a,a,a
+250,845,"Trudeau goes it alone with new climate plan, proposes carbon price hike",Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,b,a,b,b
+251,596,"Reaching UK net zero target cheaper than we thought, says climate adviser",Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,b,a,b,b
+252,630,"As 2020 Ends, It's Time for News Outlets to Declare a 'Climate Emergency'",Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,b,a,b,b
+253,1278,"Battle for Congress hinges on top of ticket, pandemic dynamics",Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,b,a,b,b
+254,1347,"ESPN's Kirk Herbstreit tests positive for COVID-19, will work College GameDay, Sugar Bowl from home",Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,b,b,b,b
+255,696,Biden and the Climate Crisis: Fighting for Net Zero,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,b,a,b,b
+256,1050,Skull Fossil Shows How Human Cousin Adapted to Changing Climate,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,a,a,b,b
+257,697,The Paris Agreement five years on: renewing calls for climate action,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,b,b,b,b
+258,945,The Danish climate minister closing down the oil industry for good,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,a,b,a,b,a,b
+259,1089,First ever US climate envoy warns Paris agreement 'is not enough',Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,b,b,b,b
+260,502,Biden to tap Brenda Mallory to lead White House environment council -sources,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,b,a,b,b
+261,822,Environment Agency faces questions over works on protected river,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,a,b,a,b,a,b
+262,1373,Warnings on fines as England's new lockdown begins,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,a,b,b,b,b,a,b,b
+263,748,Biden election sparks hope for meeting global climate targets,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,a,a,b,b
+264,914,"With a Single Climate Initiative, Biden Could Generate $4 Trillion for Green Investment",Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,b,b,b,b
+265,1014,Climate change: UK aim of 68% emissions cut a 'colossal challenge',Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,b,b,b,b
+266,520,"Biden Be Bold: AOC & Cori Bush Join Climate Protest Outside DNC Urging Activists to ""Bring the Heat""",Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,b,a,b,b
+267,2131,"Vaccine development software shows promise in influenza effort, could help defeat coronavirus",Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,a,b,b,b
+268,939,We Don't Have To Live This Way': Doctors Call For Climate Action,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,b,a,b,b
+269,916,NC Appeals Judge Censured for 'Toxic Work Environment',Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,a,b,b,b,a,b,b,b
+270,1254,Vaccine News From Britain and China Bolsters Push for Inoculations,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,b,a,b,b
+271,566,"Faith and the fight against climate change, Part 4",Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,b,a,b,b
+272,1120,'The most significant climate legislation ever': How stimulus bill tackles warming planet,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,a,b,b,b
+273,726,DeepMind unveils new details of game-mastering A.I. it says may help in complex real-world environments,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,a,b,b,b
+274,1022,Why Australia's Climate Gains Can't Offset Their Expanding Gas Industry,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,b,a,a,b
+275,616,389-day Arctic research mission brings urgent call for climate action,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,b,b,b,b
+276,2129,Virologists develop broadly protective coronavirus vaccines,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,b,b,b,b
+277,772,Joe Biden says 'no time to waste' as climate team unveiled,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,b,b,b,b
+278,1104,Hurricane season 2020: Is global warming making hurricanes stronger?,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,a,a,a,b
+279,1010,"Costs of climate change are soaring in Canada, yet still barely understood: report",Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,b,a,b,b
+280,833,Brazil off to bad start on Paris climate deal: watchdog,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,a,b,a,b,b,a,a,b
+281,834,"Fight Climate Change Like We Battle COVID-19, Says Paris Accord's Chief Negotiator",Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,b,a,b,b
+282,983,Environmental value of renewable energy varies from place to place,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,a,a,a,b
+283,800,"Vaccines, tech, and climate: Europe pitches a new partnership to President-elect Biden",Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,b,a,b,b
+284,891,Biden's Next Climate Chief Will Tackle 'Existential Threat' At Home,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,b,a,b,b
+285,848,"American Housewife Co-Star Carly Hughes Calls It Quits, Citing a 'Toxic Environment'",Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,a,b,b,b,b,b,b,b
+286,519,Biden will rejoin the Paris Climate Accord. Here's what happens next,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,b,a,b,b
+287,713,Wisconsin's Original Renewables Roll With Climate Change,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,a,b,b,b
+288,1339,Dr. Drew Pinsky tests positive for COVID-19 months after apologizing for downplaying the virus,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,a,b,a,b,b,a,a,a
+289,771,"NC's Regan, top EPA pick, promises environmental policy that serves 'every person'",Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,a,b,b,b
+290,870,Biden Team Close to Announcing Picks for Core Climate and Energy Jobs,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,b,a,b,b
+291,704,"Pick up the pace on combating climate change, Bank of Canada governor says",Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,b,b,b,b
+292,634,Lake ice destabilized by climate change linked to increase in youth drownings,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,a,b,b,b
+293,932,The most significant climate legislation ever': How stimulus bill tackles warming planet,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,a,b,b,b
+294,672,Global summit to present 'ambitious' climate change goals,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,b,a,b,b
+295,1353,"Budget process, COVID-19 spending being undermined by OMB, Biden transition says",Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,a,a,b,b,b,a,a,b
+296,716,"Trudeau to tout climate and trade at Asia-Pacific summit where China, U.S. dominate",Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,b,b,b,b
+297,1251,"Election 2020 live updates: Joe Biden wins Wisconsin, Michigan as Trump files lawsuits in three states",Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,b,a,b,b
+298,887,How a new type of glove can reduce environmental damage,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,a,b,a,b
+299,532,"Paris climate deal 'designed to kill US economy', Trump claims",Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,a,a,a,b,b,a,a,a
+300,636,Top court gives France three months to show climate efforts,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,a,b,b,b
+301,674,How Biden Could Use the Presidential Bully Pulpit to Drive Climate Action,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,a,b,b,b,b,a,b,b
+302,774,Longtime Head of EPA's Environmental Justice Program: Biden's Climate Picks Show Power of Movements,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,a,b,b,b,b,b,b,b
+303,1314,When 'the American Way' Met the Coronavirus,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,a,b,b,b,b,a,a,b
+304,627,California's 'climate damn emergency' can't be ignored,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,a,b,b,b,a,a,a,b
+305,521,The Drilldown: Opposition disappointed with government's climate legislation,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,b,a,b,b
+306,901,First drone goes flying to the North Pole on a climate mission,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,a,b,a,b
+307,816,Climate change: Welsh green energy hindered by 'strained' grid capacity,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,a,b,a,b
+308,977,"If the World Is Ending, It's Not Because of Climate Change",Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,a,a,a,b
+309,980,"Even under Trump, America did a better job at tackling the climate emergency than Canada did, says Green Party Leader Annamie Paul",Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,a,a,a,b
+310,1264,U.S. confirms first case of new COVID-19 strain found in the U.K.,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,b,b,b,b
+311,755,Biden Has Oportunity To Take on Worsening Climate Crisis,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,b,a,b,b
+312,1056,Here's How Scientists Want Biden to Take on Climate Change,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,b,a,b,b
+313,660,"CO2 pricing, transfers may pay large dividends in the fight to curb climate change",Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,b,b,b,b
+314,946,"Climate Change Threatens Not Just the Environment, But the U.S Financial System",Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,a,a,a,b
+315,1263,California sets new record for COVID-19 deaths,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,a,a,b,b
+316,546,Carbon Capture Is Not a Climate Savior,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,a,b,b,b,a,a,b
+317,1295,NC Gov. Cooper holds press conference to give COVID-19 update. Here's how to watch.,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,b,b,b,b
+318,928,Highgate Cemetery wants help to save site from climate change impact,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,a,b,b,b
+319,632,UK ban on new fossil fuel vehicles by 2030 'not enough' to hit climate targets,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,a,b,b,a,a,b
+320,646,How Biden's Climate Plans Will Shake Up Global Energy Markets,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,b,b,b,b
+321,997,"Neal eyes massive coronavirus relief, climate and infrastructure package",Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,a,a,b,b
+322,1274,Govt says new English lockdown could last longer than month,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,a,a,a,b
+323,770,Auditor general issues scathing rebuke of Ford government's environmental policies,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,b,a,a,b
+324,1292,Zhang Zhan: The 'rebellious soul' jailed for filming Wuhan,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,a,b,b,b,a,a,a,b
+325,819,Whoever wins the election will face one of the most challenging market environments to start a presidential term in history,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,b,b,b,b
+326,1279,Covid-19: Rise in HSE staff redeployed to nursing homes,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,a,b,b,b
+327,559,Russia's Environmental Disasters in 2020,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,a,b,b,b,a,a,a,b
+328,725,Biden picks Kerry for Cabinet-level climate role,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,b,a,b,b
+329,1081,Global climate summit promises ambitious plans for 5th anniversary of Paris Agreement,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,a,b,b,b
+330,972,"Climate-changing methane emissions from oilpatch twice as high as thought, study shows",Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,b,a,b,b
+331,1324,Minister says most vulnerable people should receive Covid vaccine by Spring,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,a,b,b,b
+332,818,Colorado looks to logging to help re-balance forests in an era of climate-triggered megafires,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,a,b,b,b
+333,823,Paris climate agreement: What will happen if Biden wins the US election?,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,a,b,a,b,b,a,a,b
+334,992,Time is now for Canada's public pension giants to invest in a safe climate future,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,b,b,b,b
+335,937,Foals' Edwin considered quitting the band over climate change,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,a,b,b,b,a,a,b,b
+336,710,Trump pushes new environmental rollbacks on way out the door,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,a,b,b,b,b,a,a,b
+337,509,"Biden taps Haaland for Interior, N.C. environment chief Regan for EPA",Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,a,a,b,b
+338,873,Supernova explosions may have helped shape Earth's climate history,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,a,b,a,b
+339,715,"Cook County commissioners approve $14 million settlement in lawsuit alleging indecent behavior by inmates to public defenders, hostile work environment",Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,a,b,b,b,a,b,a,b
+340,1095,Climate activist Seth Klein's call to arms to fight climate change,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,b,a,b,b
+341,537,Facebook is reportedly planning to woo Joe Biden by rolling out new vaccine and climate change features,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,a,b,a,b,b,b,b,b
+342,778,The Top Five Climate Stories of 2020,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,b,a,b,b
+343,729,Zombie' greenhouse gas lurks in permafrost beneath the Arctic Ocean,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,a,a,b,b,b,b,a,b
+344,1317,"Biden warns that it could take years for Americans to be vaccinated at the current rate, and says his target of 100 million doses in 100 days requires extra Congress funding",Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,b,a,b,b
+345,682,Greta Thunberg Says She's 'More Than Happy' That U.S. Is Rejoining Paris Climate Agreement,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,a,a,b,b
+346,1067,Women lead the climate movement. Don't leave them out of the green recovery,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,a,a,b,b
+347,623,"California Air, Climate Regulator Mary Nichols Hopes To Run Biden's EPA",Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,a,a,b,b
+348,528,"The final days of lame-duck Trump: Electioneering, revenge and environmental attacks as the president refuses to go quietly",Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,a,b,b,b,b,a,b,b
+349,1107,Climate Change and California's Favorite Trees,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,b,a,b,b
+350,767,Biden to pick North Carolina environmental regulator to run EPA,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,a,a,b,b
+351,888,Climate crisis: CO2 hits new record despite Covid-19 lockdowns,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,a,a,b,a,a,b,b
+352,702,Hothouse 2020: An out-of-bounds look at election day and what it could mean for the climate,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,a,b,b,b,b,a,b,b
+353,522,Many loopholes in international ban on heavy fuel in Arctic shipping: environmentalists,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,a,b,b,b,a,a,a,b
+354,1047,Greta Thunberg blasts leaders as 'hypocrites' over climate crisis,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,a,b,b,b,b,a,b,b
+355,1297,"The Spin: Pandemic, politicians make Jan. 1 reset difficult | An 'inflection point' for police reform? | Illinois' minimum wage goes up $1 next month",Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,a,b,b,a,b,b
+356,530,Biden Taps Climate Team Focused on Environmental Racism & Science to Take Over from Industry Lobbyists,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,a,a,b,b
+357,677,Climate heroes: the countries pioneering a green future,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,a,a,b,b
+358,526,"Biden Announces Climate Team, Including First-Ever National Climate Advisor",Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,a,a,b,b
+359,1271,Covid: What will the England lockdown achieve?,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,a,a,a,b
+360,666,9 Things the Biden Administration Could Do Quickly on the Environment,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,b,a,b,b
+361,897,Some Republican states would fight forced utility emissions cuts under Biden climate agenda,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,a,b,b,b,a,a,b
+362,1320,U.K. COVID-19 variant detected in Southern California,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,a,b,b,b,b,b
+363,1042,Climate Inequality Exists in U.S. Cities and Has Deep Racist Roots,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,a,a,a,b
+364,756,"How Joe Biden could make Brazil his first ""climate outlaw""",Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,a,b,a,b,b,a,a,b
+365,1306,Partisanship Is a Public Health Threat,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,a,a,a,b,b,a,a,b
+366,1309,Covid: What are the lockdown rules in place across Europe?,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,a,b,a,b
+367,854,Al Gore: I Have Hope on the Climate Crisis. America Must Lead.,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,a,a,b,b
+368,895,Climate crisis to triple flooding threat for low-income US homes by 2050,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,a,a,b,b
+369,764,Biden's Climate Team Begins to Take Shape,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,b,a,b,b
+370,609,"Top California Air, Climate Regulator Hopes to Run Biden EPA",Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,b,a,b,b
+371,1293,NYE gatherings cause concern among health officials during COVID-19 crisis,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,a,b,b,b,b,b,a,b
+372,1093,European states ordered to respond to youth activists' climate lawsuit,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,a,b,b,b,b,a,b,b
+373,1111,'We Don't Have To Live This Way': Doctors Call For Climate Action,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,b,a,b,b
+374,504,International shipping is killing the climate,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,a,b,a,b,a,a,a,b
+375,806,Climate report warns of rising risk as U.N. pushes nations to take action,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,b,a,b,b
+376,973,UN tell worlds leader to declare state of climate emergency,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,a,a,a,b
+377,717,French climate council warns that 5G will lead to spike in carbon emissions,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,a,b,b,a,a,b
+378,628,Chronic disease is on the rise  and stopping it requires a new Canadian Environmental Protection Act,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,b,b,a,b
+379,518,Biden says his climate team has 'no time to waste',Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,b,a,b,b
+380,1389,California identifies second US case of highly contagious Covid-19 variant,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,b,a,b,b
+381,534,Migrants Flee Climate Change Ravaged Central America as Record-Breaking Hurricanes Hit,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,b,b,b,b
+382,876,Incoming EPA Chief Vows 'Sense of Urgency on Climate',Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,a,a,b,b
+383,1376,Texas sees delays amid push for faster vaccine rollout,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,b,a,b,b
+384,918,Climate change: Can sending fewer emails really save the planet?,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,a,a,a,b
+385,569,Atlantic hurricane season ends with records driven by climate change,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,a,a,b,b
+386,875,European Space Agency satellite to provide key indications of rise in sea level due to climate warming,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,a,b,a,b
+387,1041,Securitizing climate change can lead to more surveillance and eco-fascism,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,a,a,a,b,a,a,a,b
+388,797,New Zealand declares a climate change emergency,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,a,a,b,b
+389,874,"""We're in a crisis"": Biden introduces climate policy team",Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,b,a,b,b
+390,1249,Indiana college student with COVID-19 dies in her dorm room,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,a,b,b,b,a,a,a,b
+391,1284,Evanston school officials say no evidence of hacking found after student encountered racial slur on remote learning platform,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,a,a,a,b
+392,938,Fossil fuel production must drop 6% a year to meet climate goals: UN report,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,a,a,b,b
+393,885,Firefighters and others on the climate frontline need Labour to be bolder | Matt Wrack,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,b,a,b,b
+394,664,Mechanical tree helps Science Museum branch out on climate change,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,a,b,b,b
+395,1344,Tuesday's coronavirus update,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,a,a,b,b
+396,1342,China clamps down in hidden hunt for coronavirus origins,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,b,a,b,b
+397,531,Climate Change Legislation Included in Coronavirus Stimulus Deal,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,a,b,b,b,b,b
+398,680,"As The Climate Warms, Hurricanes Are Lasting Longer Over Land, Study Finds",Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,b,b,b,b
+399,527,"2020 was a stormy, fiery, record-breaking year when climate disasters wouldn't stop",Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,a,b,b,b
+400,633,Climate change: Warmer winters linked to increased drowning risk,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,b,b,b,b
+401,835,U.S. to shatter record for billion-dollar climate disasters in 2020,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,a,b,a,b,b,a,b,b
+402,1259,Which hospitals in your community are getting hit hardest during COVID-19 surge?,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,a,b,b,b,b
+403,986,"Biden to Name Gina McCarthy, Former E.P.A. Chief, as White House Climate Coordinator",Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,a,a,b,b
+404,1123,'We want real action': young activists aim to fill void on climate with Mock Cop26,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,b,a,b,b
+405,1332,The Latest: Danes take action after virus mutation in minks,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,a,b,a,b,b
+406,631,"Biden taps climate, environment hands for transition teams",Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,a,a,b,b
+407,1023,California's Ancient Redwoods Face New Challenge From Wildfires And Warming Climate,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,a,b,b,b
+408,1337,Britain approves Oxford/AstraZeneca COVID-19 vaccine,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,a,b,b,b
+409,2130,First complete coronavirus model shows cooperation,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,a,b,b,b
+410,1060,How will sea levels change with climate change?,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,a,b,b,b,a,a,a,b
+411,542,Great Lakes advocates look to Biden administration to take on climate change: 'A breath of fresh air',Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,a,a,b,b
+412,912,How long can Britain avoid a climate change culture war?,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,a,b,b,b,a,a,a,b
+413,750,"World is running out of time on climate, experts warn",Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,b,a,b,b
+414,1323,Frontline doctor talks about the state of COVID-19 in the U.S.,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,b,a,b,b
+415,877,Is nuclear fusion the answer to the climate crisis?,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,a,a,b,b,a,a,a,b
+416,1381,Denmark to kill 15 million mink over link to human COVID infections,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,b,a,a,b
+417,720,Congress Takes Aim at Climate Change in Massive Relief Bill,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,b,a,b,b
+418,936,"World not doing nearly enough to stop 'catastrophic' global warming, UN report warns",Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,b,a,b,b
+419,638,Could we ever pull enough carbon out of the atmosphere to stop climate change?,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,a,a,a,b
+420,1368,COVID has changed your health insurance options,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,a,a,a,b,a,b
+421,512,Biden Presents a New Era in the Fight Against Climate Change,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,a,b,b,b
+422,898,Norman Foster pulls out of climate coalition in row over aviation,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,a,b,b,b,a,a,b,b
+423,617,"Society needs to be shocked' into making environmentally sustainable changes, says climate scientist",Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,a,a,b,b
+424,958,What a Republican-controlled Senate means for Biden's climate agenda,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,a,b,b,b,b,a,b,b
+425,699,Arsenal become first Premier League club to join forces with the United Nations to combat climate change,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,a,b,b,b
+426,503,How Parents Can Tame the Stress of Climate Crises,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,b,a,b,b
+427,737,"Experts lay out the criteria for choosing Biden's CTO, who will be faced with using tech to tackle everything from climate change to vaccine distribution",Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,b,b,b,b
+428,1374,"Iona, basketball coach Rick Pitino announce 2nd COVID-19 season pause",Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,b,b,b,b
+429,1086,Fossil fuel influence targeted in fight to control climate agenda in next parliament,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,b,a,b,b
+430,1062,Biden has big climate change plans. But can he get it done?,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,b,a,a,b
+431,1315,Government begins sending $600 COVID-19 stimulus payments to millions in U.S.,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,b,b,b,b
+432,892,"2020 in Review: Stories on Climate Change, COVID-19 budgets, and the election",Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,b,a,b,b
+433,827,U.S. Exits Paris Climate Accord after Trump Stalls Global Warming Action for Four Years,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,a,b,b,b,a,b
+434,821,"Day after election, US formally exits Paris climate change agreement",Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,a,b,b,b,a,b
+435,865,"A Return to Paris Climate Accord Would Cost Much, Yield Little",Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,a,b,b,b,b,a,a,b
+436,545,The pandemic has barely made a dent in climate-changing pollution levels,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,a,a,a,b,a,a,a,b
+437,1245,Teenager's lockdown meltdown,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,a,b,a,b,a,a,b,b
+438,1118,"'Past a point of no return': Reducing greenhouse gas emissions to zero still won't stop global warming, study says",Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,b,a,a,b
+439,731,Carbon pricing rises as world's weapon of choice in climate fight,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,b,a,b,b
+440,1017,7 Things You Can Do To Reduce Your Environmental Impact And Save Nature,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,a,b,a,b
+441,1398,Americans Urged to Keep Guard Up as New Virus Strain Spreads,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,a,a,b,b
+442,533,Climate change: Covid pandemic has little impact on rise in CO2,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,a,b,a,a,a,b
+443,1282,"Daily U.S. virus infections hit all-time high: ""Extremely dire""",Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,a,b,b,a,b,b
+444,1283,Mecklenburg wants to break ties with a healthcare agency. Here's what happens next.,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,a,b,b,b,b,b,a,b
+445,1070,Joe Biden Doesn't Need the Senate to Boost the Economy and Tackle Climate Change,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,a,a,a,b,b,a,a,b
+446,583,Ireland ranked among worst performers in 2020 climate rankings,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,a,b,a,b,b,a,b,b
+447,1061,Navalny and climate on agenda in first Russia visit by UK minister since 2017,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,b,a,b,b
+448,840,Global experts question UK's commitment to tackle climate crisis,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,a,b,b,a,a,b
+449,902,Clues Point to Climate Change as a Culprit in Gray Whale Deaths,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,b,a,b,b
+450,543,Can Wall Street's Heaviest Hitter Step Up to the Plate on Climate Change?,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,b,a,b,b
+451,1318,Police officer charged with assaulting man not wearing mask,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,a,b,a,b,a,b
+452,693,Can farming hemp help fight climate change?,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,a,a,a,b
+453,605,COVID-19 Has Taken the Wind Out of the Sails on Climate Change,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,a,b,b,a,a,a,b
+454,667,Paris climate agreement: 54 cities on track to meet targets,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,b,a,b,b
+455,1049,We want real action': young activists aim to fill void on climate with Mock Cop26,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,b,a,b,b
+456,547,This California Law Offers Biden a Tool in the Fight for Environmental Justice,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,b,a,b,b
+457,639,"Biden picks John Kerry as climate czar, Janet Yellen as treasury secretary",Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,a,b,b,b
+458,825,"Trans Mountain's profitability depends on climate action, says budget watchdog",Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,b,a,b,b
+459,1382,U.K. Authorizes Covid-19 Vaccine From Oxford and AstraZeneca,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,b,b,b,b
+460,579,Nestl CEO: Climate change laggards put the planetand their businessesat risk,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,a,a,b,b
+461,573,"Blame Climate Change for Historically Warm Fall in Russia's Biggest Cities, Experts Say",Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,b,a,b,b
+462,776,Countries must work together to build momentum for global climate action,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,b,b,b,b
+463,994,Climate change: UK to end aid for fossil fuel projects abroad,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,b,b,b,b
+464,695,"Faith and the fight against climate change, Part 1",Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,b,a,b,b
+465,1009,Corporate obstructionism endangers meaningful climate action  and the stakes couldn't be higher,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,a,b,b,b,b,a,a,b
+466,1369,Doug Jones to miss defense bill vote after wife's COVID-19 diagnosis,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,b,a,b,b
+467,913,Otters Show How Predators Can Blunt Climate Damage,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,a,a,b,b
+468,927,John Kerry vows to treat climate change as 'urgent national security threat' as Joe Biden hands him key role,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,b,a,b,b
+469,645,GOP Control to Linger Over Agency Key to Climate,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,b,a,b,b
+470,926,"With John Kerry Pick, Biden Selects a 'Climate Envoy' With Stature",Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,b,a,b,b
+471,998,Biden Puts White House on Climate War Footing,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,a,a,b,b
+472,665,Walls close in around Morrison on climate,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,a,a,b,b,a,a,b
+473,754,"World is in danger of missing Paris climate target, summit is warned",Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,b,a,b,b
+474,647,The politics of climate change are shifting in Colorado,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,b,b,b,b
+475,1367,Nicola Sturgeon hails 'encouraging' coronavirus signs in new Scottish lockdown,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,b,b,b,b
+476,624,Indigenous environmental defender killed in latest Honduras attack,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,a,b,b,b
+477,1122,'Zombie' greenhouse gas lurks in permafrost beneath the Arctic Ocean,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,a,b,b,b,a,a,b
+478,969,Not enough' climate ambition shown by leaders,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,a,b,b,a,a,b
+479,1029,Animal Movement Data Reveal Effects of Climate Change in Arctic,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,a,b,b,b
+480,598,Biden Picks Gina McCarthy as Domestic Climate Czar,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,a,a,b,b
+481,735,Major climate change measures included in Covid aid bill,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,b,a,b,b
+482,851,Urban wood movement aims to fight climate change and create jobs,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,b,b,b,b
+483,1372,"Op-Ed: In the midst of pandemic, in the midst of divorce, what neighbors share is reassurance",Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,a,b,b,b
+484,736,"How homeowners can save energy, money from the feds' climate plan",Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,b,b,b,b
+485,1007,World is 'doubling down' on fossil fuels despite climate crisis  UN report,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,a,b,b,a,a,b
+486,804,Weatherwatch: the climate of the Leeward Islands,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,a,a,b,b
+487,709,"With historic picks, Biden puts environmental justice front and center",Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,b,b,b,b
+488,1268,"Despite less testing, new COVID-19 cases continue to rise",Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,a,b,b,b,a,b
+489,1069,Wasserman Schultz makes climate pitch in Appropriations gavel bid,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,b,a,b,b
+490,586,"Arctic's Shift to a Warmer Climate Is 'Well Underway, Scientists Warn",Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,a,b,b,b
+491,1265,Gov. Cooper extends eviction moratorium in NC amid surging COVID cases statewide,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,b,a,b,b
+492,996,"Joe Biden's 2020 policies: the President-elect's views on Covid, immigration and the environment",Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,b,a,b,b
+493,775,"Trump slams the Paris climate accord at the G20 Summit, saying it was 'designed to kill the American economy'",Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,a,a,b,b,b,a,a,a
+494,1370,"Vaccines still ""on the road"" as U.S. fails to meet year-end targets",Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,a,b,a,b,b,a,a,b
+495,568,The Goldman environmental prize winners 2020  in pictures,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,b,a,b,b
+496,516,Half of child psychiatrists surveyed say patients have environment anxiety,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,a,a,a,b
+497,1015,Eastern Countries Hold Out for More Cash on EU Climate Deal,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,b,b,b,b
+498,751,How Joe Biden plans to use executive powers to fight climate change,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,a,b,b,b
+499,564,Hundreds of young activists hold 'Mock COP' to fight for climate change action,Trustworthy,"
+    
+Which of the following describes the above news headline?
+A: Misinformation
+B: Trustworthy
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,b,a,b,b

@@ -1,0 +1,7 @@
+Does the following text relate to the economy? (True/False)
+
+text: """
+{content}
+"""
+
+label:
