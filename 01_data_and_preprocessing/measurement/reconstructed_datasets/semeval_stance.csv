@@ -1,0 +1,3481 @@
+,original_index,context,labels,prompts,gold,q_flan-t5-small,q_flan-t5-base,q_flan-t5-large,q_flan-t5-xl,q_flan-t5-xxl,q_flan-ul2,q_text-babbage-001,q_text-curie-001,q_text-davinci-001,q_text-davinci-002,q_text-davinci-003,q_chatgpt
+0,468,"@realDonaldTrump the thing I like about Mr Trump is that if he shoots himself in the foot, he can buy another.  #SemST",Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,b,a,b,b,b,b,c,c,b,a,a,b
+1,430,"@realDonaldTrump don't care what anybody says. In November 2016, you will have my vote. Where can I get your bumper sticker?? #SemST",Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,b,b,b,b,c,c,b,b,a,b
+2,200,@realDonaldTrump Really? The perfect definition of ignorance... The perfect example of someone who does not know reality... #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,a,c,c,a,a,a,a
+3,177,"Really #DonaldTrump, all Mexican people are rapists, but you assume SOME are good people... #IdiotNation #facepalm #SemST",Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,a,c,c,b,a,a,a
+4,382,#NothingMoreAmericanThan complaining about Mexicans when you've been marketing off their labor. #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,a,c,c,a,a,a,a
+5,21,Donald Trump inhaled so much air spray & started to believe he is the title holder for the United States. #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,a,c,c,a,a,a,c
+6,294,#ProgressiveCommandment:Criminals need short sentences & cushy jails in order to rehabilitate them!#tcot @ericbolling #Greta #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,a,c,c,b,c,a,c
+7,282,DID YOU KNOW that the U.S Constitution is now under full pledge attack by the Obama tyrant administration? #WethePeople #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,b,b,b,c,c,a,a,a,c
+8,238,What's @realDonaldTrump wife's Twitter handle? I need to ask her if his balls are made of brass...I'm certain they are.   #NoHomo #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,b,a,a,a,c,c,a,a,a,a
+9,278,"@realDonaldTrump U gonna take this? I hope not! Bullshit from #Univision #NBCUniversal and #Macys. ""Magic of Macy's"" my ass #SemST",Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,a,c,c,a,a,a,a
+10,569,"We are now witnessing possibly the most disastrous attempt to run for presidency ever, courtesy of @realDonaldTrump #Fail #SemST",Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,a,c,c,a,a,a,a
+11,424,"@UPROXX good,, trumps speaking of illrgal immigrants,,, its her loss #SemST",Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,b,a,c,c,b,a,a,a
+12,245,Cancel your Netflix subscription and donate to @realDonaldTrump's campaign for entertainment #Trump #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,b,b,b,b,c,c,b,c,a,b
+13,25,@peddoc63 @realDonaldTrump So I guess Univision is Fair & Balanced. These are the people that R helping shape USA! #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,b,b,a,b,a,c,a,a,a,a,a
+14,320,@Macys not selling Trump because he voices his opinion.. What happy to freedom of speech.. I'll never shop at @Macys again.. #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,a,c,c,a,a,a,a
+15,346,Clearly @realDonaldTrump has very good finance people because his shocking racist comments proves he not an intelligent human! #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,a,c,c,a,a,a,a
+16,661,@gpacja @TexanJustin @JebBush @Isikoff @realDonaldTrump you're an awful person. Free speech. I'll pray for you're soul. #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,a,c,c,a,a,a,a
+17,533,@realDonaldTrump u talk a big bigoted talk & yet use illegals @ your new DC prop.Thank GD u being POTUS isn't viable! #trumpsucks #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,a,c,c,a,a,a,a
+18,166,@realDonaldTrump is such an idiot. He's risking way to much for something he'll never get. #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,a,c,c,a,a,a,a
+19,403,The clothing #Macys (made in Mexico&China) #NBC (Traders! #Sodomites!) #Univision (will pay!) #RollOn!!! @realDonaldTrump #wiyh #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,b,b,b,b,b,c,c,b,a,a,a
+20,683,@realDonaldTrump needs to learn when to stop talking. You are making it worse Donald... so much worse. #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,a,c,c,a,a,a,a
+21,208,@NBCUniversal maybe you could have a reality show trying to find a new host of celebrity apprentice #YoureFired #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,a,c,c,a,a,a,c
+22,119,"For the record, as a #Latino, (#Peruvian to be specific), let me state the obvious: #FuckTrump #SemST",Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,a,c,c,a,a,a,a
+23,271,@gbennettpost @jamiedupree No  #asstards!  America is dumping you! Trump's gonna put your dicks in the dirt! #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,a,c,c,a,a,a,a
+24,59,"The moment you opened your mouth,  that was the end of your candidate trip! @realDonaldTrump #SemST",Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,a,c,c,a,a,a,a
+25,289,I hope every Billionaire learned their lesson bout talking sh%t about Mexicans!  Do it in your golf clubs NOT on TV! #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,a,c,c,a,a,a,a
+26,344,Stop thinking you can walk around talking reckless in the end it will bite you in the ass #Dontjudgeme #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,a,c,c,a,a,a,c
+27,293,@hamltonb026 that's the last thing I'm doing. I'm suggesting that liberals are the reason it is the issue it is today #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,b,c,c,a,a,a,c
+28,562,"@mailandguardian There goes the Latino vote, Donald Dumb!! #SemST",Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,a,c,c,a,a,a,a
+29,268,I love how everyone thinks canceling @realDonaldTrump's ventures will do anything but hurt themselves. This man has my vote! #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,b,b,b,b,b,c,c,b,b,a,b
+30,594,#Trump is ruining a party quicker than the police! #gop #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,a,c,c,a,a,a,a
+31,267,Only good thing about Trump's presidential run is that by the end of it he will be a billion or 2 short #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,b,b,a,a,a,a,c,c,a,a,a,a
+32,248,@divadoll123 @LANURSE1 @ShaninZT u can't go back.Only way people r going to wake up is when the free checks stop coming!#TCOT #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,a,c,c,a,a,a,c
+33,700,Watching what Donald Trump said about Mexicans was shocking! Let's not give this appalling man a platform. #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,a,c,c,a,a,a,a
+34,318,ENOUGH. 4FAR 2LONG  2% of pop. has dictated 2the 98% due 2fear by PCpolice/afraid 2b called a bigot/racist. NO MORE!  #ccot #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,b,b,c,c,a,a,a,c
+35,600,Republicans. The party that rewards racial hatred and bigotry with a front-runner status for the Presidential nomination. #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,a,c,c,a,a,a,a
+36,251,"Gotta love everyone disliking @realDonaldTrump because he actually makes sense, and may even bring the country back to normal #SemST",Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,b,a,b,b,b,b,c,c,a,a,a,b
+37,302,#FELLOW TEXANS WHO SHOP FIRE @MACY'S AND SHOP #DILLARD'S! #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,b,a,a,a,c,c,a,a,a,c
+38,616,I'm Fonald Frump and EVERYBODY THINKS YOU'RE AN IDIOT.forPresident #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,a,c,c,a,a,a,a
+39,285,@TPM @realDonaldTrump this is what happens when you open your big mouth. You're out of luck for 2016 at this rate. #Univision #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,a,c,c,a,a,a,a
+40,404,"#DanaPerino is getting more snitful by the minute. Says Trump isn't believable, can't win. Hide&watch! #MakeAmericaGreatAgain #SemST",Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,b,c,c,b,a,a,a
+41,426,@JonathanHoenig @realDonaldTrump @feldmaniac @Mediaite Support Americas future Boycott capitalist pig #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,a,c,c,a,a,a,a
+42,648,Mainstream media should not be giving Donald Trump airtime. Focus on real issues. #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,a,c,c,a,a,a,a
+43,578,The gift that keeps on giving. #makeitstop #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,b,b,a,a,a,c,c,a,a,a,a
+44,246,"Me: ""That asshole with the toupee was talking again and it was stressing me out""  Dad: ""Who?""  Mom: ""Donald Trump #SemST",Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,a,c,c,b,a,a,a
+45,641,"@theblaze American ppl are prolife, anti #Obamacare, pro #bordersecurity pro traditional marriage. Where has that gotten us. #SemST",Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,b,a,a,c,c,b,c,a,c
+46,474,Translation: I do not understand why the Republicans don't dismiss him. #Republicans #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,a,c,c,a,a,a,a
+47,450,@inspirationguy U r a LOSER and jealous of me cos I'm RICH #TrumpWillBeThePrezCosWinningIsAllHeDoesUnlikeYouLosersAlsoBanTheTacos #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,b,b,b,b,c,c,a,a,a,a
+48,417,"@ProfessorF @JessicaTarlov And deluded shows and ""news"" reporters are not?!  #SemST",Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,a,c,c,b,a,a,a
+49,187,"@realDonaldTrump I am sorry Mexico sends people like Dylan Roof, Mitchelle Blair and David Sweat to the USA. #enemywithin #SemST",Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,a,c,c,a,a,a,a
+50,467,Lying to justify political correctness is still nothing but a lie.   #Teaparty #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,b,c,c,a,a,a,a
+51,443,@realDonaldTrump notice the @StopHillaryPAC didn't include you probly @KarlRove hiding behind a name again #Trump #trumpisright #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,b,b,b,b,c,c,b,a,a,b
+52,399,@marcorubio .  Adios for your comments about @realDonaldTrump .. You are a disappointment. #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,a,c,c,b,a,a,a
+53,678,. @realDonaldTrump American was great until you embarrassed us all to death #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,a,c,c,a,a,a,a
+54,257,I just cancelled my reservation at the Trump hotel in Las Vegas.  I hope like minded people intolerant of bigots do the same #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,a,c,c,a,a,a,a
+55,387,Important part of platform.  Make it illegal to talk during #TrueDetective  #GOP #Election2016 #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,b,b,b,c,c,a,a,a,c
+56,649,I wonder if Trump is at the Mexico soccer game in Chicago? I hear he has a lot of supporters there #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,b,b,b,b,b,c,c,a,c,a,b
+57,396,"@seanhannity @BobbyJindal He would be great Vp for Trump.. 2 of  kind,#MakeAmericaGreatAgain , #SemST",Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,b,b,b,b,b,b,c,c,b,b,b,b
+58,558,@_George_Lopez__ says there may be enough AMERICAN Racists to Elect Trump as President. I think he's right. Take back America #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,b,c,c,b,a,a,a
+59,437,@realDonaldTrump @ReillyCarole So he can outsource all our manufacturing to Mexico and China like he does his line. #hypocrite #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,a,c,c,a,a,a,a
+60,254,"There is still more to be done to make this country strong, powerful and great again. #TrumpCarson2016 #SemST",Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,b,b,b,b,b,c,c,b,c,a,b
+61,252,"John O'Donnell, former president of Trump Plaza Hotel & Casino ... @realDonaldTrump said ""laziness is a trait in blacks. #SemST",Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,a,c,c,b,a,a,a
+62,188,"Donald Trump is in dire need of a crisis communicator. PR folks, please give him your two cents. #SorryNotSorry #SemST",Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,a,c,c,a,c,a,a
+63,141,Trump believes in traditional marriage so strongly that he's been traditionally married 3x. He should teach a class or something. #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,b,b,b,b,a,c,c,b,c,a,b
+64,183,Donald Trump needs to stop embarrassing himself. Racist assholes.... #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,a,c,c,a,a,a,a
+65,331,@loudobbsnews Don't you just love that truth is now called controversial comments?!  Has this country fallen that low?! #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,a,c,c,b,a,a,c
+66,420,"@realDonaldTrump has formed the ""Racistublicans"". The political party for old fat assholes. #Racistublicans  #Republicans  #SemST",Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,a,c,c,a,a,a,a
+67,33,"@realDonaldTrump did not apply to immigrants one of the trade basis, WIN TO WIN. Ignorance can not be excuse #SemST",Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,a,c,c,b,a,a,a
+68,469,@realDonaldTrump @Virginia4USA @ArtistdeeDd @HowardKurtz We all Mr. Trump. #usa  #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,b,b,b,b,b,c,c,b,c,b,c
+69,181,Go back to focusing on brainless beauties... Oh wait you can't cuz you've been fired #NBC #youlose #sorrynotsorry #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,a,c,c,b,a,a,c
+70,354,"The way @realDonaldTrump is taking flak, he must be over the target. #SemST",Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,b,c,c,a,a,a,c
+71,69,You're combover looks like the cupacabra  Guillermo @jimmykimmel so funny #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,a,c,c,a,a,a,c
+72,435,@TMZ trump a guy born with a silver spoon up his ass who has never done a hard days work in his life  #DumpTrump #YoureFired  #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,a,c,c,a,a,a,a
+73,645,"WE Love Mexicans,WE Respect your Work Ethic,Your Love of Family,Your Loyalty,Your FOOD &Your Love Of God! Lets ALL Get JOBS,VOTE #SemST",Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,b,b,a,b,c,c,b,c,a,c
+74,449,@DeeHoer420 That's right. CNN = LOSER. Anyone who has met Trump knows he is a down to earth compassionate gentlemanman.  #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,b,b,b,b,b,c,c,a,b,b,b
+75,347,@realDonaldTrump fuck you racist ass bitch. Go fuck yourself #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,a,c,c,a,a,a,a
+76,148,@realDonaldTrump Probably because @jorgeramosnews had to change it after you published his old one on Instagram #TrumptheChump #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,b,a,a,a,c,c,a,a,a,a
+77,304,"Well, someone's doing the raping. I get combed and gooped up so much, Donald's the one doing the raping. He never understands. #SemST",Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,a,c,c,a,a,a,a
+78,609,Trump's comments show he cannot be taken seriously. The fact he's polling high shows the party should not be taken seriously. #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,a,c,c,a,a,a,a
+79,212,@realDonaldTrump You're FIRED! Now get out of here! Go!    #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,a,c,c,a,a,a,a
+80,218,America: Isn't it time we ignored Donald Trump? He's not a serious person. @NYPD should revoke his gun permit. #Immigration #NBC #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,a,c,c,a,a,a,a
+81,314,@CNNPolitics @Eugene_Scott  Careful Donald. Don't get carried away. #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,a,c,c,a,a,a,a
+82,215,"@realDonaldTrump just so you know White people have more of a ""Rapist"" title, than Hispanics. #NotBeingRasist #DoResearch  #SemST",Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,a,c,c,b,a,a,a
+83,171,@politico is there anybody more sue happy than this fool? #trump #lawsuitabuse #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,a,c,c,a,a,a,a
+84,243,Remember that story about a charismatic businessman who will lie to get into power from an obscure position? #Revelation #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,a,c,c,b,c,a,a
+85,626,Why is the media giving the Donald so much airtime?The guy evades questions just like any other politician.Disaster. GOP trouble #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,a,c,c,a,a,a,a
+86,222,Donald Trump is Biff in the alternate universe 1985 in Back to the Future 2.   #biff #BackToTheFuture #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,b,b,a,a,a,b,b,a,a,a,c
+87,269,Comments by @realDonaldTrump were hateful & disgusting. Everyone should sever their ties with him. Thanks @Macys @Univision @nbc #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,a,c,c,a,a,a,a
+88,388,I nominate Donald Trump for the new ambassador to Mexico. #Mexico #Tacos #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,b,b,b,b,b,c,c,b,c,a,b
+89,231,If you think it's fine American car companies send jobs to Mexico while we pay for their welfare you must hate @realDonaldTrump   #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,a,c,c,b,a,a,a
+90,471,"@NBC to #Trump: ""HOW DARE YOU POINT OUT THAT OBAMA CAUSES 1000 GIRLS TO BE RAPED EVERY MONTH CROSSING INTO USA!""  #ccot #tcot #SemST",Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,a,c,c,a,a,a,a
+91,647,.@DannyZuker   With ONE speech @realDonaldTrump managed to financially screw himself.  Imagine what he can do for us as POTUS! #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,b,b,b,c,c,a,a,a,b
+92,167,"So, Donald gets fired, but reverend Al is still employed. Both are idiots. Makes zero sense, #NBC #SemST",Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,a,c,c,a,a,a,a
+93,266,Macy's to stop selling Trump merch. I guess he'll sue them next. #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,a,c,c,a,a,a,a
+94,458,"Another Reagan the last thing we need! The #FatherofAmnesty rewarded 3m criminals, displaced 1.9m in workforce! @DaGodfather907 #SemST",Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,a,c,c,b,a,a,a
+95,646,I hate it when percent try to out-bitter each other. #UniteBlue #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,a,c,c,a,a,a,c
+96,479,You know Donald Trump is in deep when most Neo-Conservatives call him out on his bullsh*t speech. #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,a,c,c,a,a,a,a
+97,352,"If there was such a thing as the ""American"" Hitler. Donald Trump would probably be that guy. #nationalism #SemST",Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,a,c,c,b,a,a,a
+98,227,"Notice @realDonaldTrump not saying anything on #CarlosSlim . Not so rich or tough now, huh? Yeah, forgot he's #Mexican huh  #SemST",Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,b,a,a,a,c,c,b,a,a,a
+99,699,@luzcarolinarov @damian_becker Right-wing idiots in the US are capable of anything. Including voting for extreme racist #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,a,c,c,a,a,a,a
+100,473,You have to wonder if Hillary will attempt to replace #ObamaCare with #HillaryCare. #tcot @realDonaldTrump #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,b,c,c,b,a,a,b
+101,258,Why are free market conservatives behind a multiple bankruptcy candidate who wears makeup. Gives us real conservatives a bad name #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,a,c,c,b,a,a,a
+102,682,@ericbolling @GeraldoRivera @realDonaldTrump People who think like Geraldo are dangerous for America. #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,a,c,c,b,a,a,a
+103,174,Donald Trump:  proof positive that Gigantism is the last stage before extinction. #MissUSA #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,a,c,c,a,a,a,a
+104,615,"Donald Trump has me ""L-ing my A O.""  This dude is nuts I highly recommend watching the #CNN interview.  He is entertaining.  #SemST",Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,b,a,b,b,b,b,c,c,b,a,a,b
+105,308,I'm voting for Donald Trump ! #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,b,b,b,b,b,c,c,b,c,b,b
+106,369,Wondering who is going to make your suites now. @realDonaldTrump  Maybe the rapist and killers you speak about will. #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,a,c,c,a,a,a,a
+107,317,delusional - adjective  1. having false or unrealistic beliefs or opinions 2. Donald Trump  #presidentialelection2016 #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,b,a,a,a,c,c,a,a,a,a
+108,696,That Time Trump Spent Nearly $100000 On An Ad Criticizin US Foreign Policy In 1987 #america #DonaldJTrump #foreignpolicy #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,b,c,c,a,a,a,b
+109,418,"Donald trump is way better than ANY candidate out there. Because he's real, not a lobbyist backed puppet #Election2016 #SemST",Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,b,b,b,b,b,b,c,c,b,b,a,b
+110,284,"Following his recent comments about immigrants, do you think Donald Trump's business interests will suffer? #Trump #SemST",Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,a,c,c,b,c,a,a
+111,296,It's truly amazing just how many people Donald Trump is making complete & utter fools of. Gotta love it :) #MurderersAndRapists #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,b,c,c,a,a,a,a
+112,221,"@realDonaldTrump is not a pilitical puppet. Maybe a piata, but definitely not a puppet. #SemST",Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,b,b,a,b,b,c,c,b,c,a,c
+113,447,The more Big&Rich hates @realDonaldTrump The more Little&Poor follows him 3103K  @HillaryClinton 3810K #Election2016 #Hillary2016 #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,b,a,a,a,a,a,c,c,a,a,a,a
+114,196,". @SenatorKitchen @nbc how deeply offensive such comments are not only to Mexican-Americans, but Latino Americans in general. #SemST",Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,a,c,c,a,a,a,a
+115,230,"@mdsbarry ILLEGAL ALIENS come to US collect welfare and social security, its time to #MakeAmericaGreatAgain SECURE OUR BORDERS  #SemST",Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,b,b,b,c,c,b,a,a,b
+116,477,"Please, understand that Donald Trump mouth is full of shit due to his Mexican maid having access to his toothbrush. #SemST",Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,a,c,c,a,a,a,a
+117,214,Donald Trump is gonna end up like Hitler #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,a,c,c,a,a,a,a
+118,288,And this dude wants to be potus #FOH #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,b,a,a,c,a,a,a,a,a
+119,575,@GovernorPerry @realDonaldTrump not true Perry! Don't count on me or anyone in my family for a vote. You need to stop being PC. #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,a,c,c,a,a,a,a
+120,168,"Props to @nbc, they are connected to Telemundo. Even more impressive they dumped Trump after Univision squabble. #DumpTrump #SemST",Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,a,c,c,a,a,a,a
+121,23,.@realDonaldTrump should've kept his mouth shut & not run for Pres. He is making the biggest fool out of himself. He's fired #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,a,c,c,a,a,a,a
+122,264,Left-wing media trying to silence @realDonaldTrump? HAHAHA  Keep trying! Trump is NOT a career politician & he won't be bought!  #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,b,a,b,b,c,c,b,a,a,b
+123,360,"@business  ""@HillaryClinton can't even manage @billclinton and she wants to be @POTUS"" #lol #OhHillNo #StopHillary2016 #SemST",Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,a,c,c,a,a,a,c
+124,611,Donald Trump please shut the eff up forever! To think I liked your men's suits at Macy's! You suck! #andersoncooper #CNN #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,a,c,c,a,a,a,a
+125,451,Coming soon to @NBCSports - Muslim sports cid:7D8CC0C5-9231-4700-B63E-8CB2E0C1EC6C/22C1780B-C578-4ECD-9BE0-CA3901D4EAF6 #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,b,a,a,a,c,c,a,c,a,c
+126,19,Dear @realDonaldTrump: You are an idiot. #america #politics #sticktoyourhair #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,a,c,c,a,a,a,a
+127,118,I really hope @realDonaldTrump doesn't combover and shoot me with the pistol he's constantly packing.. #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,a,c,c,a,a,a,a
+128,386,Thanks to @realDonaldTrump our Hispanic community finally has woken up from the dead! #GovernmentAndPolitics #WhiteHouse #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,b,b,b,b,b,c,c,b,c,a,b
+129,28,"@realDonaldTrump you know that middle class is Latino's, right? You just shitted all over that working class you claim to need. #SemST",Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,a,c,c,a,a,a,a
+130,551,Just because you own a casino (bankrupt) doesn't mean your family didn't immigrate too #America #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,a,c,c,b,c,a,c
+131,272,@Lrihendry your just as ignorant as #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,a,c,c,a,a,a,a
+132,192,"Holy shit ,the @realDonaldTrump is one looney mother fucker.  He'll never make it to the first debate #sideshow #SemST",Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,a,c,c,a,a,a,a
+133,333,@realDonaldTrump @LadyPatriot777 @Macys lousy merchandise made in China !!!!!!!  #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,a,c,c,b,a,a,a
+134,185,Hey @MayorGregor thanks for letting a racist bigot build a giant tower with his name on it downtown. Real proud of ya. #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,b,a,a,c,c,a,a,a,a
+135,3,"@ABC Stupid is as stupid does! Showedhis true colors; seems that he ignores that US was invaded, & plundered,not discovered #SemST",Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,a,c,c,a,a,a,a
+136,423,@HnstyNgov @FoxBusiness @realDonaldTrump Meanwhile no Democrat running has given anyone anywhere a job. Other Repubs just as bad. #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,b,a,a,c,c,a,a,a,b
+137,60,And how many  #latinos enemies you gained in 1 week? 50 million!! @realDonaldTrump #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,a,c,c,a,a,a,a
+138,165,.@nbc ends relationship with @realDonaldTrump over his disgusting derogatory remarks. This man ha no place in the White House. #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,a,c,c,a,a,a,a
+139,389,"The only reason people have a problem with @realDonaldTrump is because he speaks the truth, which offends the soft Americans. #SemST",Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,b,a,b,c,c,b,b,a,b
+140,652,"@Reince @SharonDay @realDonaldTrump @tedcruz @JebBush Wshgton Cartel, incompetent GOP leaders support losers like Romney, McCain! #SemST",Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,a,c,c,a,a,a,a
+141,642,Apparently #Trump values riches so much he can't afford values. #Trumpelstiltskin #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,a,a,a,a,c,c,a,a,a,a
+142,290,@realDonaldTrump Canada supports you! Please stop the ILLEGALS at your boarder before they get to ours. #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,b,b,b,b,c,c,b,c,a,b
+143,311,"Spine, I would like for you to meet the Republican Party.  #SemST",Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,b,a,a,a,c,c,a,a,a,c
+144,470,@realDonaldTrump You are absolutely right on the border! Bush and company are afraid to address it! #MakeAmericaGreatAgain #SemST,Against,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",a,a,a,b,b,b,b,c,c,b,a,a,b
+145,660,@ouchinagirl @TrumpNY2016 @GOP TRUMP FOR PRESIDENT AS HE DOESN'T MINCE WORDS!!!! #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,c,c,b,c,a,b
+146,502,@realDonaldTrump @ericbolling GOP wants to discredit Mr. Trump and his reputation clean like diamonds #usa #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,a,a,a,a,c,c,b,b,a,b
+147,633,@realDonaldTrump Don't let the @GOP tell you how to run!  #America doesn't need another politician.  #MakeAmericaGreatAgain only #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,a,a,b,c,c,b,a,a,a
+148,529,"Donald J. Trump, I am voting for you to be our next ""El Presidente""! #trumpforpresident #SemST",Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,c,c,b,b,b,b
+149,703,@RSherman_25 Join Twitter Trump brigade #onethousandtweets to support message #MakeAmericaGreatAgain @realDonaldTrump #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,c,c,b,c,a,b
+150,625,"@Montel_Williams , ex 2bit talk show host, talking shit about @realDonaldTrump . Fuck off montel!! @cnn. #SemST",Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,a,a,a,a,c,c,a,a,a,a
+151,348,@thehill @greta @realDonaldTrump Now You Know The Left Is Afraid Of A Executive Over Politicians < Hang In There Donald #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,a,a,b,b,c,c,b,c,a,b
+152,638,"@realDonaldTrump Now that you're the leader of the GOP, will you show them what Leadership is? #MakeAmericaGreatAgain #SemST",Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,c,c,b,a,a,b
+153,581,@realDonaldTrump  WE WANT TRUMP! WE WANT TRUMP! WE WANT TRUMP!!! #MakeAmericaGreatAgain #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,c,c,b,b,b,b
+154,666,"@ZekeJMiller @Reince @SharonDay GOP plan to stop Trump? LOL Maybe they can put up loser candidates like Romney, McCain and Jeb! #SemST",Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,a,a,a,a,c,c,a,a,a,a
+155,494,@realDonaldTrump it's crazy how cowardly these big corporations are. I swear I'm campaigning for you !!!!! #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,c,c,b,b,a,b
+156,173,@realDonaldTrump he is a real leader and deserves to be President. #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,c,c,b,b,b,b
+157,12,"Considering the fact that Bush was a president of this country, I don't see it a joke that Trump is running ! #Election2016 #SemST",Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,a,a,b,c,c,b,a,a,c
+158,191,i want donald trump to win the presidency so bad. he cant be bought out like all the others. and he sticks to his convictions #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,c,c,b,b,a,b
+159,6,Donald Trump for president? I can dig it.  #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,c,c,b,b,b,b
+160,573,Donald Trump is the man of all men #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,c,c,b,c,a,b
+161,158,Really respect @realDonaldTrump for giving up #TheApprentice to make way for his #campaign #AmericaNeedsThis #GodBlessedAmerica #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,c,c,b,c,a,b
+162,620,After every @realDonaldTrump interview I watch I get more pumped up for November 2016 when this country can be made great again. #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,b,b,b,b,b,b,c,c,b,b,a,b
+163,376,@GOP it's time you recognize @realDonaldTrump . This movement is real. #MakeAmericaGreatAgain #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,c,c,b,b,b,b
+164,680,@soxsher @Lrihendry @realDonaldTrump  Please make it right again! #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,a,a,b,c,c,a,a,a,b
+165,517,@realDonaldTrump: We have got to take our country back. It's time! Win it Mr. Trump #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,c,a,b,b,a,b
+166,126,@realDonaldTrump we need someone like you who won't back down to ANYONE or ANYTHING #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,c,c,b,b,a,b
+167,538,@realDonaldTrump Making America a Nationalism society #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,a,a,a,c,c,b,a,a,b
+168,640,"@realDonaldTrump is just saying what most are thinking, you have to give him credit #Trump4POTUS #SemST",Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,c,c,b,b,b,b
+169,178,"The Left fear Donald Trump, BIG TIME! @realDonaldTrump  #SemST",Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,a,a,a,a,c,c,a,a,a,a
+170,197,Mr. @realDonaldTrump   I appreciate you standing your ground as you've done.  I can say I've never felt better about voting. #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,c,a,b,c,a,b
+171,590,"@realDonaldTrump A man who isn't afraid to speak the truth is a man who I'll vote for! Take it home, Mr. Trump! #FuturePresident #SemST",Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,c,a,b,b,b,b
+172,26,"#presidentialelection2016  Make plans to help your future now, so that later you don't regret it, again! Vote @realDonaldTrump #SemST",Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,c,c,b,b,a,b
+173,589,@realDonaldTrump Just want to say thank you for not pandering to the pc police! #richforareason #nofear #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,c,c,b,b,a,b
+174,579,@realDonaldTrump You have the heart of a lion! Let's make America great again! #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,c,a,b,b,b,b
+175,51,Trump for prez he couldn't do any worse so give him a shot #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,c,c,b,b,a,b
+176,695,Why is it wrong when Trump is stating facts about illegal immigrants??? He is 100% Right #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,a,b,a,b,c,c,a,a,a,b
+177,175,Kudos to Donald Trump for telling off NBC. The media HATES the GOP'S & will do ANYTHING to destroy them. #NBC #mediaatfault #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,a,a,b,b,c,c,a,b,a,b
+178,114,A vote against Trump is a vote against America #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,a,a,b,a,c,a,a,a,a,a
+179,548,#greta Trump is absolutely on fire right now! He is a good man with a great family. He is the medicine this country needs! #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,b,b,b,b,b,b,c,c,b,b,b,b
+180,359,"Anyone who is against @realDonaldTrump 4 president, has no clue of his success and the potential of greatness he can do 4 us. #SemST",Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,c,c,b,a,a,b
+181,505,Get the truth from Trump! @realDonaldTrump #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,a,b,b,c,c,b,a,a,c
+182,547,@realDonaldTrump keep it up Trump we love you #MakeAmericaGreatAgain #BoycottMacys #boycottnbc #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,b,b,b,b,b,b,c,c,a,b,b,b
+183,629,No you see Donald Trump was saying Mexican immigrants are all *rappists* like with the hip hop y'all  #Trump #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,b,a,a,a,a,a,c,c,a,a,a,a
+184,17,We need Obama out and @realDonaldTrump in the White House ASAP #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,c,c,a,a,a,b
+185,55,@realDonaldTrump No more Bush or Hillary Clinton #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,a,b,b,b,c,a,a,a,a,c
+186,216,@ChristieC733  YES DONALD U R 100% CORRECT' as long as u stay the coruse and don't pander to GOP U GOT MY VOTE #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,c,c,a,b,a,b
+187,651,Trump is a Non-Establishment candidate.  I like it!  #MakeAmericaGreatAgain #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,b,b,b,b,b,b,c,c,b,b,a,b
+188,669,@realDonaldTrump is the only candidate who has the backbone to get our #country back on the #rightpath #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,c,c,b,b,b,b
+189,636,@realDonaldTrump keep it up Mr Trump-when the Dems and Repubs are attacking-you know your doing it right! #MakeAmericaGreatAgain #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,c,c,b,b,b,b
+190,663,"@realDonaldTrump Sir, i just want you to know that you'll be the greatest President of this Generation!  #SemST",Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,c,c,b,b,b,b
+191,367,GRATE TWO SEE @realDonaldTrump GET TUFF ON BOARDER CONTROL!  HAS MY VOTE IN 2016!  #TCOT #ILLEGALSSTOLEJOBS #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,c,c,b,b,b,b
+192,337,Conflict is a vehicle for change!  Ask @realDonaldTrump Trump becoming a front runner. #USA #leadership #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,c,c,b,a,a,b
+193,353,"#PrezTrump had a great week, he's the BIG news story, mission accomplished. #tcot #TeaParty #SemST",Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,c,c,b,b,a,b
+194,105,Trump Tower is not on fire. It is The Avery building. The only Trump fire is the one that I hand out when #YoureFired #TrumpRules #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,a,a,a,a,c,c,b,a,a,c
+195,690,@AnnCoulter @realDonaldTrump The Media will try to discredit him. Democrats and GOP will attack him. America will Stand with him. #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,c,c,b,b,a,b
+196,554,"@GOP If you can not debate Trump, you should not be running for president. #backurbase. #SemST",Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,a,a,a,a,c,c,a,a,a,b
+197,104,@Colin_McManus7 2016 is the first election I can vote in and I am proudly voting for @realDonaldTrump #trumpforpresident #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,c,c,b,b,b,b
+198,504,@realDonaldTrump Everyone is afraid to put a plan on the table for fear they'll be called a racist...America deserves better #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,a,a,a,a,c,a,a,a,a,a
+199,365,"@realDonaldTrump people are scared to hear the truth and that's why they fear you. If you don't tell it like it is, no one will. #SemST",Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,a,b,a,b,c,c,b,a,a,b
+200,608,@ac360 @ananavarro @andersoncooper #AC360 HECK YEAH BOMB THE CRAP OUT OF #IRAQ & SEND IN PROS TO RUN OIL FIELDS! @realDonaldTrump #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,c,c,b,c,a,b
+201,530,"If a liberal brings up Immigration, hit em with the ""TRUMP"" card! #trumpforpresident #Trump #tcot #SemST",Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,a,b,a,b,c,c,b,c,a,b
+202,115,RT @reel_fisherman6: I think Donald would bring this country back to where we used to be #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,c,a,b,a,a,b
+203,121,@realDonaldTrump you're the man for the job #MakeAmericaGreatAgain #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,c,c,b,b,b,b
+204,361,"Looking at presidential candidates, there is only one candidate, who can stand tall, and is all heads and shoulders. #Trump  #SemST",Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,c,c,b,c,a,b
+205,592,"@BillKristol GOP, Dems & Media are all scared of Trump. I am thoroughly enjoying the hand-wringing and hysterical name calling. #SemST",Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,a,a,a,b,c,c,a,a,a,b
+206,339,@realDonaldTrump @PamplinFilmCo We needs some Ballz back in the WH.. #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,a,b,c,c,a,a,a,a
+207,630,People: Donald Trump is a man who can lead this country into the future. #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,c,c,b,b,b,b
+208,145,I admire how real and unapologetic Donald Trump is on his Political standpoints #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,c,c,b,c,a,b
+209,702,@realDonaldTrump we all want you as the next president !! You tell it has it is and not as a spineless politician! #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,c,c,b,b,b,b
+210,610,@andersoncooper #AC360 @ac360 @ananavarro < WHY IS YOUR HISPANIC LATINO ASS SAYING @realDonaldTrump SAID DISGRACEFUL THINGS? #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,a,a,a,a,c,c,b,a,a,a
+211,56,Been slacking on my @realDonaldTrump retweets.. had some catching up to do .. #Trumpforpresident #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,c,c,b,c,a,b
+212,621,@sbrenn01 @marklevinshow What diversity? Conservatives are racist. I am one. I love Trump. #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,c,c,b,c,a,b
+213,552,@realDonaldTrump  Some people just want to be president.  Others want to MAKE AMERICA GREAT AGAIN! #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,c,c,b,b,a,b
+214,601,@realDonaldTrump Illegal Immigration is FINALLY on the agenda because of you! Thank you for speaking TRUTH! #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,c,c,b,b,a,b
+215,637,"RNC Chairman pleads with Trump to tone it down. I say, Ramp-it-up #SemST",Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,a,a,a,b,c,c,a,a,a,b
+216,132,@GeraldoRivera @realDonaldTrump Don't apologize for the truth. People are too sensitive. #MakeAmericaGreatAgain #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,c,a,b,a,a,b
+217,383,"Le(a)nin left RT @uss_victory: @realDonaldTrump /#LongLiveLiberty; Better is a ""#Capitalist"" for President than a #Communist. #SemST",Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,b,a,b,b,b,b,c,a,b,a,a,a
+218,617,Will be watching @AC360 again tomorrow to watch @realDonaldTrump interview continuation. #MakeAmericaGreatAgain #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,c,c,b,c,a,b
+219,5,Donald Trump isn't afraid to roast everyone. #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,c,c,b,c,a,b
+220,561,@realDonaldTrump I don't care what @NASCAR says! I dont care what the liberals at @espn say.. Keep Speaking The TRUTH!! #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,c,c,b,c,a,b
+221,619,.@realDonaldTrump is the real deal folks. He tells the truth. Get used to it! #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,c,c,b,b,b,b
+222,345,I'm voting for Donald Trump this election #waitonit #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,c,c,a,c,a,b
+223,495,THE DONALD & CARLEY - Perfect Together! - #Trump #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,c,c,b,c,b,b
+224,135,@ForQ2 I guess @realDonaldTrump really doesnt like or respect any politicians. .I respect him even more for that. #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,c,c,b,c,a,b
+225,335,Everything Donald Trump said was 100% true though. #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,a,c,c,b,c,a,b
+226,349,GOP candidate predictions? America decides to play the Trump card and go with the man with the plan. #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,c,c,b,c,a,b
+227,614,"If you live in a Trump building, congratulations on that decision #SemST",Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,a,c,c,a,c,a,b
+228,583,People who judge Trump based on his looks and hair style yet call him a racist bigot might be #hypocrites #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,a,a,a,a,c,c,b,c,a,a
+229,176,"One of the key problems today is that politics is such a disgrace, good people don't go into government. - @realDonaldTrump #SemST",Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,a,b,a,a,c,c,b,c,a,b
+230,704,@JoeyBats19 Join Twitter Trump brigade #onethousandtweets to support message #MakeAmericaGreatAgain @realDonaldTrump #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,c,c,b,c,a,b
+231,521,"@RealDonaldTrump I feel the truth when Mr. Trump speaking, people need to understand who really cares about America #SemST",Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,c,c,b,b,a,b
+232,586,@NBCNews political correctness is killing the country! The Don is telling the truth! #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,c,c,b,c,a,b
+233,153,@realDonaldTrump Hell I'm from the UK and I believe @realDonaldTrump would make an amazing WORLD Leader #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,c,c,b,b,b,b
+234,184,"@MarioLopezExtra @nbc fires Trump, but maintains strong ties with @BWilliams @TheRevAl #LAUGHABLE #JOKE #LIARS #NBC GO #SemST",Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,a,a,a,a,c,c,a,a,a,a
+235,375,Trump wasn't precise but he's no bigot. employs thousands. contributed millions to charity. And loves America.not corrupt.capable #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,b,b,b,b,b,b,c,c,b,c,a,b
+236,623,@realDonaldTrump is the ONLY candidate with BALLS!!!!! #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,c,c,b,b,a,b
+237,506,@NachoQuesado @kevinsnebula @iconogasmic @Anarkitteh @alaindebotton Your Fired! #yourfired #UpWithTrump #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,c,a,a,a,a,b
+238,137,"hey y'all giving a big old s/o to donald trump, we settled our differences and are butt tight now #SemST",Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,a,b,b,b,c,c,b,c,a,b
+239,668,"just want to give a big #shoutout to my #1 man these days, @realDonaldTrump  Get 'er done, big guy!!  #SemST",Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,c,c,b,b,a,b
+240,10,@USAlivestrong @scottscameron @ljmljm55 @blondygirl1 @eavesdropann @autumkat @texasflutegal 100% Support #Trump.. #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,c,a,b,c,b,b
+241,499,@marcorubio @GovernorPerry @GrahamBlog @McConnellPress Your silence is deafening. #TrumpIsRight #SecureTheBorder #illegalaliens #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,c,c,b,c,a,b
+242,650,@realDonaldTrump Just watched you on @FoxNews. You are awesome! You have my vote! #MakeAmericaGreatAgain #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,c,c,b,b,b,b
+243,358,"This country needs a President to take control, cut through the BS, and speak the truth! #truthhurts @realDonaldTrump #SemST",Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,a,b,b,b,c,c,b,a,a,b
+244,102,"@realDonaldTrump You have a real shot at POTUS Mr. T, the debates will be the true litmus test. #SemST",Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,c,c,b,a,a,b
+245,512,@realDonaldTrump You are the trump card of my heart. #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,c,c,b,c,a,b
+246,371,@GreggJarrett @FoxNews @GeekGirl2u @realDonaldTrump will do fine with legal Latino voters. #MakeAmericaGreatAgain #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,c,c,b,c,a,b
+247,497,25% of Mexico has INVADED AMERICA - & CONTINUES to OCCUPY us  yet POS #RINO phony #Jeb BLAMES #TRUMP for telling the TRUTH! - #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,a,a,a,b,c,c,a,a,a,a
+248,544,@realDonaldTrump gonna be on @greta show right now! #greta #TrumpIsRight #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,c,c,b,c,b,b
+249,340,@realDonaldTrump Its admirable how you're willing to lose sponsors for the greater good. We've longed for voice like yours! #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,b,b,b,b,b,b,c,c,a,a,a,b
+250,210,IF Trump could build the WALL it would provide jobs & also B a tourist attraction & pay 4 itself LEGALS arent the ones offended! #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,a,a,b,b,c,c,b,c,a,b
+251,546,"@realDonaldTrump Let's face it, we've become a passive, inert nation controlled by thugs, and redistributionists. #SemST",Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,a,a,a,a,c,a,a,a,a,a
+252,566,"LOOKS LIKE LIBREALS OUR AFTER @Paula_Deen AGAIN,,  THANK GOD FOR @realDonaldTrump #SemST",Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,c,c,b,c,a,b
+253,571,@realDonaldTrump Stay the course! You can win! The USA needs your leadership and competence! #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,c,c,b,b,b,b
+254,110,I like many entries in the 2016 Presidential race; but no one is more accomplished than Donald Trump. His cabinet will be full. #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,b,a,b,b,b,b,c,c,b,b,b,b
+255,149,"RT @bdckool: .@realDonaldTrump Of you can do for America what you did for your businesses, you will secure my vote. #SemST",Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,c,c,b,b,a,b
+256,673,@VLActionFund @Reince The same #RNC LOSERS that thought Romney & Palin were good choices needs to be THANKFUL Trump came along  #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,c,c,b,a,a,b
+257,528,"@realDonaldTrump is the only candidate who has in no way, shape or form been brainwashed by the pc police. #SemST",Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,c,c,a,c,a,b
+258,142,@realDonaldTrump we need a president who cannot be bought. #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,a,a,b,a,c,a,a,a,a,b
+259,189,Donald Trump is the man lets get this man in the White House!!! #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,c,c,b,b,b,b
+260,152,@realDonaldTrump I feel the train is gaining steam.  #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,c,c,b,a,a,c
+261,156,@realDonaldTrump I recommend @seanhannity as Sec of Defense and @marklevinshow as your new Atty General. #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,c,c,b,c,a,b
+262,363,@realDonaldTrump first time voting and I'm definitely voting for Trump #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,c,c,b,b,b,b
+263,342," TY Michael @ASavageNation ""I'd do anything to help him; he's right, he's telling the truth"" @realDonaldTrump #BoycottMacys  #SemST",Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,c,a,b,c,a,b
+264,511,@realDonaldTrump  Just registered to Vote Today so I can contribute to help #MakeAmericaGreatAgain #Honesty #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,c,c,b,b,a,b
+265,522,Liberals do not like that @realDonaldTrump is moving up in the polls. #MakeAmericaGreatAgain #TheGreatWallofMexico #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,a,a,a,a,c,c,b,b,a,a
+266,653,Politicians are destroying America. We need more people like @realDonaldTrump  to run for office #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,c,c,b,b,b,b
+267,513,@realDonaldTrump I'm RTing every tweet you post! Go get em Mr. Trump- you're reigniting the fire of the American Spirit- FIGHT! #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,c,c,a,b,a,b
+268,480,Americans of all pol parties are trusting you @realDonaldTrump - we KNOW you will put #AmericaFirst and #MakeAmericaGreatAgain #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,c,c,b,b,b,b
+269,539,@realDonaldTrump your directness & honesty has moved you to the top of my list 4 #President2016! #TRUMPTRUTH #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,b,b,b,b,b,b,c,c,b,b,b,b
+270,559,@realDonaldTrump I hope and pray you get the nomination. America needs a man with a backbone! And one that can't be bought! #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,c,c,a,b,b,b
+271,489,I feel like the 2016 Presidential race is @realDonaldTrump vs. Matropolis ie The Machine.    Lets defeat the machine #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,a,b,b,c,c,a,a,a,a
+272,362,@realDonaldTrump had a point and one the liberal media won't dare come close to! We have a fragile and wide open border!  #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,a,b,b,b,c,a,b,b,b,b
+273,602,@ErinBurnett #cnn WHY WOULD IT HURT @realDonaldTrump TO SAY SOME ILLEGAL IMMS RAPE? @JOHN_WALSH JUST SAID IT'S TRUE @OutFrontCNN #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,a,a,a,a,c,c,b,a,a,a
+274,113,@realDonaldTrump Go get 'em Mr. Trump!!! #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,c,c,b,b,b,b
+275,523,@liberaltreason @msnbc maybe all the politically correct pansies out there will move to a different country if Trump gets in!!!:) #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,a,b,a,a,c,c,a,c,a,a
+276,553,"Unlike Obama, @realDonaldTrump doesn't need a teleprompter.  #SemST",Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,c,c,b,a,a,b
+277,527,@JebBush and @marcorubio cannot speak their minds b/c they are paid 2 keep things pc. @realDonaldTrump ANSWERS TO NO ONE! #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,a,a,a,a,c,c,a,c,a,b
+278,662,Congrats to the @GOP for having @realDonaldTrump in first place amongst its 2016 candidates. #GOP2016 #Jeb2016 #walker2016 #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,b,b,b,b,b,b,c,c,b,c,b,b
+279,665,@realDonaldTrump we need you in office.. Keep doing what your doing. #VoteTrump #MakeAmericaGreatAgain #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,c,c,b,b,b,b
+280,16,@realDonaldTrump  I like Mexicans who come to US legally.  #IStandWithTrump #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,b,b,b,b,b,b,c,c,b,c,a,b
+281,133,Everybody get on the Trump Train!! It's a First Class One-Way ticket to the White House with @realDonaldTrump  #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,c,c,b,b,a,b
+282,632,"@realDonaldTrump they may be dumping you now, but when you're president they'll be begging for your business. #SemST",Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,a,b,b,c,c,b,a,a,b
+283,634,"@realDonaldTrump You have our backs, and we have yours. You have my vote. Boycotting anyone who opposes your patriotism. We need #SemST",Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,c,c,b,b,b,b
+284,370,@realDonaldTrump Any more campaign stops in Chicago anytime soon? Good luck! #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,c,c,a,a,a,c
+285,501,@Greta trump a joke? Ur guest is a fool. Better a joke than traitor RINOs. It's trump or no one for me. Reps betrayed us. #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,a,b,b,b,c,a,a,c,a,b
+286,564,THE @realDonaldTrump **MAKING TWO FEES INSTEAD OF ONE**  WE NEED A WINNER IN THE WHITE HOUSE AGAIN  #MakeAmericaGreatAgain !!  #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,c,c,b,a,a,b
+287,381,@realDonaldTrump Favorites and retweets keep piling up for Trump! He's killing the other candidates! #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,b,a,b,b,b,b,c,c,b,b,a,b
+288,658,"@BretBaier #CandidateCasino #Trumps the real deal, hand him the wheel, he can drive &make the climb to take #US up the hill. Vote #SemST",Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,b,b,b,b,b,c,c,b,b,a,b
+289,693,@realDonaldTrump ' It takes great bravery to stand up to your enemies but even more to stand up to your friends' we need you #SemST,Favor,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",b,a,a,b,b,b,b,c,a,a,a,a,b
+290,134,Time for Texas & Oklahoma to think about a no fault divorce from the Divided States of America.   #TCOT #CCOT #tippingpoint #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,a,a,a,c,c,a,a,a,c
+291,606,"@weknowwhatsbest White parents warn their kids about cops too: ""If you're stopped by cops, be respectful & do what they say. #SemST",None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,a,a,a,c,c,b,c,a,c
+292,172,Hey #UniteBlue look at #Greece - that's America's future thanks to you and Obama adding 8 Triion in U.S. debt. #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,a,a,a,c,c,a,a,a,c
+293,613,@RNRWestVirginia @RedNationRising Please go away Pataki. #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,a,a,a,c,c,b,a,a,a
+294,482,"Really @CNN? You're asking aloud whether a Mexican who lives down to a stereotype, validates the stereotype? #immigration #SemST",None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,a,a,a,c,c,a,a,a,a
+295,32,The media gathered the public like sheep over the rebel flag debate the government passed the fast track authority google it #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,a,a,a,c,c,b,a,a,c
+296,326,I would be so embarrassed if @realDonaldTrump were my dad. My dad was #conservative #Marine but not stupid or unkind. #yuck #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,a,a,a,c,c,b,a,a,a
+297,274,hey @Macys a whole bunch of us are going to sever ties with you.   #Macys #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,a,a,a,c,c,a,a,a,a
+298,441,@HuffingtonPost He probably DOES have facts! #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,b,a,b,b,c,c,a,c,a,c
+299,379,@PatDollard She is right on the money!!!!!  #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,b,b,b,a,a,c,c,a,a,a,b
+300,536,"UncommonState: RT Commoncorediva: Title 1 funds/Title 9 funds, IDEA funds...all being distorted 2 serve the CCSS Agenda! #PJ... #SemST",None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,a,a,a,c,c,a,a,a,c
+301,111,@Jewtantandproud @TookyMonster the new and cool meme is to post a video of you eating a banana. I will if you will! #bananavideo #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,b,a,a,c,c,c,a,c,a,c
+302,276,@Ehsan_Kassim It's time we make the Housewares department great again #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,b,b,b,b,b,c,c,b,c,a,c
+303,588,#ExtremistProgressives are so #Focused on their #Agenda that they believe a #Inanimate #FlagKills but #MultitimeDeporteesDont #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,a,a,a,c,a,b,a,a,c
+304,310,"@realDonaldTrump Is the only one that says the truth straight up. No spin, and he constantly stands up for what he believes! #SemST",None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,b,b,b,b,b,c,c,b,b,b,b
+305,316,RT brutaltruth2682: Radical Islam is still a threat to the Western World!!!! #awareness #PATRIOT #UnitedWeStand #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,b,a,b,c,a,a,c,a,c
+306,535,"I'm developing my own version of Arya's kill list, but for asshole celebrities #BillCosby #PaulaDeen #JaredFromSubway #GOT #SemST",None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,a,a,a,c,c,a,c,a,c
+307,419,@FNC_Ladies_Rule @MichelleFields @JonathanHoenig @JessicaTarlov Can't wait to get home and see the episode.  #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,b,a,a,c,c,c,b,c,a,c
+308,351,"Corporate America showing there Asses, over #trump is just wrong! I am making note! #SemST",None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,a,a,a,c,c,a,a,a,a
+309,34,"Beheading attack at company in France is terrorism,but beheading and attack at company in OK is work place violence. #tcot #SemST",None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,a,a,a,c,c,b,c,a,c
+310,556,bow my head  #FreeChelsea #FreeHamond #all prisoners of the state!  #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,a,a,a,c,c,a,a,a,c
+311,330,@CarlaChamorros Grassley should know Hilliary answers to no one!!!!!!  #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,a,a,a,c,c,a,a,a,c
+312,7,nothing about obamacare changed today what changed is the total exposure of anti-constitutional terrorism at the supremecourt #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,a,a,a,c,c,a,a,a,c
+313,442,Today & everyday I am proud to be an American. I'm honored to be apart of the best the world has to offer! #4thofJuly #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,b,b,b,b,b,c,c,c,b,c,a,c
+314,459,"RedScareBot: ""Filthy Lucre"" RT valera927 The one promise #socialism can keep is keeping us all equally impoverished. #SemST",None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,a,a,a,c,c,a,a,a,c
+315,475,"Good morning. I wake up on 8 pm, but is 10 pm...  That's Only Holiday :) #holiday #summer #sunrise #wakacyjnefolllowspree #SemST",None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,b,a,c,a,c,c,a,c,a,c
+316,567,The line between innovation and effrontery becomes evident through consequence. #CultureShift #awaken #rise #AriseChurch #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,a,a,a,c,b,a,c,a,c
+317,327,I wonder if Trump's campaign manager is still just drinking or have they moved on to harder stuff. #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,a,a,a,c,c,a,a,a,a
+318,91,I really hate these stunts.  We already know how ignorant the post-Reagan generations are.   #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,a,a,a,c,c,a,a,a,a
+319,414,"Normalize relations with ISIS for our economy, @ericbolling would you do it? there is a line what we should do for money. #SemST",None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,b,a,a,c,c,b,c,a,b
+320,591,@SuzieQt154320: Just Curious Do You Follow @HahnAmerica Or @Montel_Williams? #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,a,a,c,c,c,b,c,a,c
+321,395,@RWSurferGirl it's not a racial tragedy nor an Islamic one either. Only patriots care for all. #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,b,a,a,a,c,c,b,c,a,c
+322,698,"@gerfingerpoken2 @BeagleGuy13  I think it was the ""Black lives don't matter to Black lives Flag #SemST",None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,a,a,a,c,a,a,a,a,c
+323,154,I'm confused?? An unarmed fugitive was shot this weekend while running from an officer.  No rioting? No dismissal? A hero?  #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,a,c,a,c,c,b,c,a,c
+324,433,@FFRNNU Maybe #MSM should be talking more about this and less about flags and cakes. #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,a,a,a,c,c,a,a,a,a
+325,232,@Dahat8 @Stonewall_77 The HATE within America is stronger NOW than I remember since 1969? Can't go backwards to such division #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,a,a,a,c,c,a,a,a,a
+326,277,"@JudgeMbro Thank you for RT and FAV, judge!!! #USA #OhHillNo #Cuba #TodosMarchamos #Venezuela #SemST",None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,b,a,a,a,c,c,a,c,a,c
+327,659,The Sheriff of #SFO is a total idiot.  #FollowTheLaw #SanctuaryCity #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,a,a,a,c,c,a,a,a,c
+328,161,If the Obama cabinet was on the apprentice who would you fire?  Kerry was the answer. #talkcityclub #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,a,a,a,c,c,b,c,a,c
+329,93,"Why does O refer to Iran, Hamas, Ebola, and ISIS in dramatically less critical terms than he does Republicans?"" #tcot #SemST",None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,a,a,a,c,c,b,c,a,c
+330,223,Tuesday AM #TrumpDump on horizon. I can see Chris Christie being victim. NBC for sure. Anyone else? #TellingItLikeItIs #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,a,a,a,c,c,a,a,a,a
+331,604,Get over to #CNN #AC360 @realDonaldTrump going live in minutes.  #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,b,b,b,b,c,c,b,c,a,c
+332,670,And America wants to protest a silly flag but lets pro athletes get away with shit like that #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,a,a,a,c,c,b,c,a,c
+333,144,We have become a nation where decisions are based on feelings and not on facts.  #tcot #ycot #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,a,a,a,c,c,b,a,a,c
+334,100,The whole Latino community will not be voting for #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,a,a,a,c,c,a,a,a,a
+335,53,"You can change the laws of America, but you can never change the Law of God. Marriage is between a man and a woman. #SemST",None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,a,a,a,c,c,b,c,a,c
+336,656,So #Memphis will dig up #NathanBedfordForrest but #BillCosby keeps his star on the Hollywood Walk of Fame? #LiberalLogic #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,a,a,a,c,c,b,c,a,c
+337,67,States Have Already Decided How They Felt About This Based Off The Wills Of Their People! Give Them Their Rights Back! #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,a,a,a,c,c,a,a,a,c
+338,503,@RepGoodlatte a weak response on #KellyFile to Obama blame @ImmigrationGOP hit back at Obama hard. #Hannity #kellyfile #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,b,a,a,c,c,b,c,a,c
+339,81,Is one cup of coffee ever enough?! #COFFEE #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,b,a,c,c,c,c,a,c,c,c
+340,697,RT veriphile: FF #Patriot --> Phil1863.  Thanks for following back!!  #Truth #Liberty #Justice #ProLife #ProIsrael #2A #Rise... #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,b,b,b,a,b,c,a,b,a,a,c
+341,445,@JVER1 @tgradous @LVNancy  I blame her death on the @potus he is directly responsible. He is pathetic. If i were her dad.... #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,a,a,a,c,c,a,a,a,a
+342,507,@ericbolling :).  Sorry for the kidding but had to do that.  Darn autocorrect.  #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,b,a,a,a,c,c,a,c,a,c
+343,385,@realDonaldTrump the left should get off your back!  By the LAW anyone that crosses the border illegally is a criminal.  #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,b,b,b,c,c,b,b,a,b
+344,540,Muslim community chips in to help rebuild burned down churches #AllPeopleMatter #Globalist/ElitesVsThePeople  #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,b,a,a,a,c,c,b,c,a,c
+345,136,"...And of course, God bless America!! #tcot  #teaparty  #SemST",None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,b,b,a,a,b,c,c,b,c,a,c
+346,596,"@msnbc @chefjoseandres good riddance to bad rubbish, #SemST",None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,a,a,a,c,c,a,a,a,a
+347,332,Dear Republicans: Please nominate Donald Trump. The reminder that people like him exist will do wonders for the progressive cause #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,b,b,b,b,a,b,c,c,b,a,a,a
+348,199,@GinnyQuaglia well the rest of the majority had better get off their asses and get involved in this fight. #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,a,a,a,c,c,a,a,a,a
+349,543,On #education @JohnKasich has no clue.. High standards only work if the kids do their work and their parents make sure of it. #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,b,a,a,c,c,b,a,a,c
+350,356,"Fuck You Obama, I will continue to fly my confederate flag and I'm going to fly it proudly! Renaming American streets? WTF? #SemST",None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,b,a,b,c,c,a,a,a,c
+351,402,"Cashinin A Block) Terror&4th July, terrorists win? B) Trump v NBC, Univision, Macy's C) Cuba D) WhiteHouseLights FNC 1130aET #SemST",None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,b,a,a,a,a,b,a,c,a,a
+352,77,Maybe I was wrong. The government will probably ban football because someone is offended by the violent nature of the game #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,a,a,a,c,c,a,a,a,c
+353,202,@POTUS The whole light thing with the people's house was disgraceful.  #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,a,a,a,c,c,a,a,a,a
+354,706,"@RMConservative @DagnyRed ,P.C. is out of control,stop being offended ,we are a country of free thinkers,#1A #SemST",None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,a,a,b,c,c,b,c,a,c
+355,99,Can we ask for equality in the USA and get rid of a Confederate flag that has a ton of history ? meanwhile we have clowns like #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,a,a,a,c,c,b,a,a,c
+356,453,@Hohn_Jollis better than high-quality h2o farts #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,a,a,a,c,a,a,c,a,c
+357,143,"@KidDynamiteBlog Between #Hillary2016 ""a sadistic psychiatric nurse let loose in a lunatic asylum"" & #bush16 ppl may vote #Shit! #SemST",None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,b,a,a,c,c,a,c,a,a
+358,476,"If You Disagree With Montel, You Are A Racist. #SemST",None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,a,a,a,c,c,a,c,a,c
+359,180,#TheFive Geraldo is an ass and when he spews his leftist BS he makes me sick TURNING OFF THE FIVE #TheFive #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,a,a,a,c,c,a,a,a,a
+360,491,@toddstarnes the plan is on paper & in pencil. Degrade = erase 1 letter at time destroy = throwing the paper away! #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,a,a,a,c,c,a,c,a,c
+361,584,@FoxBusiness I would have to say that #NYSE would never admit a hack. #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,a,a,a,c,a,b,c,a,c
+362,679,@ericbolling @FoxNews I'll be there!! Who's on the panel? #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,b,a,c,c,c,c,b,c,a,c
+363,280,Did anyone cut ties with Senator Lindsey Graham when he called all Iranians liars? NO.  #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,b,a,a,c,c,a,c,a,c
+364,306,"I wrote 'The Art of the Deal,' the number one best selling business book of all time, at least I think #SemST",None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,b,b,b,b,c,c,b,c,a,b
+365,97,"Matters more today, then last week or yesterday.  IF YOU SEE SOMETHING SAY SOMETHING.  Bad is not even a word yet. #SemST",None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,b,a,a,a,c,c,a,a,a,c
+366,380,@10thAmendment  Funny. Visited by Muslims on  Christmas Eve last year. #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,a,a,a,c,c,a,c,a,c
+367,576,The Left > It's only a Law if we like it - It can be ignored if we don't like it.  #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,a,a,a,c,c,a,a,a,c
+368,103,@WayneDupreeShow  I'm just jealous that us NORMAL hetero people don't have a flag or pride week or a parade #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,a,a,a,c,c,b,c,a,c
+369,138,"In todays America, does Honesty mean you are a Bigot?  I Hope not! @JonathanHoenig @JudgeJeanine #TheFive #Hannity #SemST",None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,a,a,a,c,c,b,c,a,c
+370,452,@realDonaldTrump I know I'm not the only person who can't wait to see your name on the presidential ballot and vote for you! #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,b,b,b,b,b,c,c,b,b,b,b
+371,213,@HarisSTR Howz greece heard u like to anal pound didnt think u were like that #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,a,a,a,c,c,b,c,a,a
+372,398,"Witnessing the destruction of the #middleclass If you are black, white Hispanic, or any other creed support #Trump #usa #4thjuly #SemST",None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,b,b,a,a,c,c,b,c,a,b
+373,107,Imagine looking out at the world and the America Obama has created while thinking things are better?  My god...  #tcot #PJNET #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,b,a,a,c,a,b,a,a,a
+374,555,@GoAngelo it's obvious Macy's and NBC and ESPN and ... are chokers. #Trumpisassclown #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,a,a,a,c,c,a,a,a,a
+375,607,Blessed is the nation whose God is Lord. Psalm 33:12 #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,b,b,a,c,c,c,c,b,c,a,c
+376,413,Liberalism is the politics of personal destruction! If Liberals can't win- they will lie & demonize! They are paid to attack! #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,a,a,a,c,c,b,a,a,a
+377,40,I don't even recognize America anymore. #scary #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,a,a,a,c,c,a,a,a,a
+378,43,This Fight Isn't OVER! #Obamacare Is Obviously Broken & It Increases Health Care Costs For Millions Of Americans. #SCOTUScare #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,b,a,b,c,c,a,a,a,c
+379,50,I'm offended @HillaryClinton is Not in Prison & I'm offended  hasn't started 2 #ImpeachObama Now @BarackObama  #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,a,a,a,c,c,b,a,a,c
+380,247,"Donald Trump....you're fired, fired, & fired again! #SemST",None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,a,a,a,c,c,a,a,a,a
+381,677,"In addition to sanctuary cities, I'm done with Walmart too. #SemST",None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,a,a,a,c,c,a,a,a,a
+382,563,Now Coke believes in unicorns along with the libs #WakeUpCocaCola #TedCruz2016 #TheRightBrigade #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,a,a,a,c,c,b,c,a,c
+383,526,#Obama intervenes on behalf of #Greece = Hello #drachma  Socialism = equality of misery  #tcot #pjnet #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,a,c,a,c,c,b,c,a,c
+384,672,Hey guise. Any recommendation for a good taco place in midtown? #Trump #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,b,b,a,c,a,c,c,b,c,a,c
+385,209,"@foxnation read my lips , "" I am Nuts "" get out of people's personal life. #SemST",None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,a,a,a,c,c,a,a,a,c
+386,29,I am not sure who is coming from other countries but I will assume they must be bad cause I am rich. #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,b,a,a,c,c,a,a,a,b
+387,76,@JonathanHoenig Why arent Americans allowed WEEKLY to vote on Bills that are passed by the elite on behalf of the masses? #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,a,a,a,c,c,b,a,a,c
+388,228,Hutch_USA Follow ===> sarah_brannick <===  if you want to #FreeAmir #FreeAmirNow  #PJNET #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,a,a,a,c,c,a,c,a,c
+389,671,@EmmittSmith22 Who cares about you judging? You run wiith an inflated animal skin for entertainment. More time for brain surgury? #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,a,a,a,c,c,a,a,a,a
+390,462,"If Greek Prime Minister Alexis Tsipras needs advice on emerging from bankruptcy, I'm available #greekreferendum #SemST",None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,b,a,b,c,c,b,c,a,c
+391,22,The Leftist Liberals are starting an internal war within America. #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,a,a,a,c,c,b,a,a,c
+392,1,"@ThePimpernelX @Cameron_Gray @CalebHowe  Totally agree ...time to get out of the Twitter Peanut Gallery and take ""arms #SemST",None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,b,a,a,a,c,c,a,a,a,a
+393,299,@TPM Forget #AnnCoulter. Faux's #Hannity & #KellyFile have an endless supply of ignorant #GOP summer interns. #RWNJ #tcot #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,a,a,a,c,c,b,a,a,c
+394,147,"Be prepared - if we continue the policies of the liberal left, we will be #Greece - #SemST",None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,b,a,b,c,c,b,c,a,c
+395,667,@thehill it's called an ad hominem attack & it's used by people who know they can't win on the merits we r onto u congressman #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,a,a,a,c,c,a,a,a,a
+396,249,Just watched @realDonaldTrump speech. How embarrassing for his family! Like that's a really bad dad moment  #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,a,a,a,c,c,a,a,a,a
+397,599,"@veriphile; Just Curious, Do You Follow @Montel_Williams? #SemST",None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,b,a,a,a,c,c,b,c,a,c
+398,85,@docweiser01 @ericbolling @JonathanHoenig @MichelleFields Morning Doc! (hugs) #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,b,a,c,c,c,c,a,c,a,c
+399,273,Thank you @Macys! You are and will continue to be my favorite store! Bye bye #DoucheBag #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,b,b,b,a,a,a,c,c,a,a,a,a
+400,321,Honestly though @Macys you dumped Trump so now I'm dumping you. And I shop at your store A LOT. NOT ANYMORE BYE #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,a,a,a,c,c,a,a,a,a
+401,520,@OutFrontCNN @CNN u cant lift sanctions & then slap then back on right away. Who's that foolish? Or deceitful? #IranTalks #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,a,a,a,c,c,b,a,a,c
+402,366,@nytimes Does he go to the Dog groomer ? #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,a,c,a,c,c,a,c,a,c
+403,492,@StandWithCJ @ali She a cockroach. #holdtheline CJ. There will be others to replace her. #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,a,a,a,c,c,a,a,a,a
+404,89,"@ericbolling Juan says status quo is not working. Remember ""Detente or MAD? They worked! #SemST",None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,b,a,a,c,c,b,c,a,c
+405,86,@1962Kiser @FanOfGreenMMs @ericbolling @jhodnot that's the one heard it causes sterilization in dem voters. err lab rats #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,a,a,a,c,c,a,a,a,c
+406,127,#LoveWins ---> I'm hating the rainbow because of this!!#NoToGayMarriage #Wakeuplebanon  #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,a,a,a,c,c,a,c,a,c
+407,98,@inmatemd @ChuckNellis @Oh_MarieLoDuca We can only hope #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,b,a,a,a,c,c,a,c,a,a
+408,357,"@boxxers06 This may be true. However, many Americans also travel to these and other places to do the exact same thing.  #SemST",None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,b,a,c,a,c,c,b,c,a,c
+409,343,@POTUS what are your thoughts on #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,b,a,a,c,c,c,b,c,a,c
+410,397,Great interview with @BobbyJindal tonight! I can vote for this guy! #Hannity #lnyhbt #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,b,b,b,b,b,b,c,c,b,b,a,c
+411,27,@Rebeksy well that's just crazy! Why work? #howdidwegethere #shameful #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,a,a,a,c,c,a,a,a,c
+412,577,The .@nyse doesn't just halt all trades ... What's up #grexit #ChinaMeltdown #tcot #nationaldebt #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,a,a,c,c,c,b,c,c,c
+413,516,"Silence is golden, yes, but when silence is all there is...it is way too loud! ~john tarter #tcot #SemST",None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,a,a,a,c,c,a,c,a,c
+414,568,@exjon @bjcowan1970 AMERICAN companies won't make them anymore #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,a,a,a,c,c,a,c,a,c
+415,281,"I would vote for @realDonaldTrump if he had a hilariously oversized head, I'm talking 2x size of his body #SemST",None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,b,b,b,b,a,c,a,b,c,a,b
+416,92,"And ask for handouts @jjauthor: When your family is short of money, do you take Lib option to increase spending? #racism #SemST",None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,a,a,a,c,c,b,c,a,c
+417,618,"Making matters worse, NBC canceling Apprentice replacing with Mind of Mencia reruns #comedycentral #NBC #SemST",None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,a,a,a,c,c,a,a,a,c
+418,454,"@JebBush if the truth offends you, then you're part of the problem! #SemST",None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,a,a,a,c,c,a,a,a,a
+419,52,@toddstarnes Marriage is designed and defined by God. No mortal man can change it. Praying for our country  #ccot #PJNET #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,b,a,a,a,c,c,b,c,a,c
+420,374,Political correctness should be an automatic disqualifier for all #GOP candidates in 2016. #tcot #DefeatCommunism #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,b,a,a,a,a,a,c,c,a,a,a,a
+421,542,I get SO HEATED seeing treasonous libtards defending Ed Snowden. He is a TRAITOR and should be hung. #tcot #tlot #ccot #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,b,a,a,c,c,a,a,a,c
+422,236,@QuiltingMuriel But I do agree about the excess speechifying and posturing and general nonsense. Hello #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,a,a,a,c,c,a,a,a,a
+423,157,Is #Greece waking up to the disaster of #Socialism and a world without borders? #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,a,a,b,c,c,b,c,a,c
+424,688,Guys I'm not feeling well so no #Hannity tweeting for me tonight. Not sure if I'll do #CashinIn in the morning either. Sorry. #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,a,c,a,c,c,a,c,a,c
+425,239,#KellyFile remember the days when we believed #SCOTUS would follow the #constitution well they gone #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,a,a,a,c,c,b,a,a,c
+426,82,Of course @TheJuanWilliams is completely wrong on the @SCOTUS ruling on #obamacare . @MichelleFields is right! #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,a,a,a,c,c,b,c,a,c
+427,300,@JoeHNewYork @maggiebeauchamp @DLoesch This country is upside down.. #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,a,a,a,c,a,a,a,a,a
+428,201,"I'm sure the white Euro people who moved to America when the land belonged to Native Americans were not good people either, #SemST",None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,a,a,a,c,c,a,a,a,c
+429,448,@avocadofact only 2% of illegals work farm jobs #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,b,a,a,c,c,b,a,a,a
+430,689,@seanhannity Rick Santorum Quit talking like a politician get mad the AMERICAN PEOPLE are MAD as hell #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,a,a,a,c,c,a,c,a,b
+431,431,@johnnydollar01 @kilmeade That there can be complete #ASSHOLES like #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,a,a,a,c,a,a,a,a,c
+432,15,BretBaier ShannonBream remind Obama that the 2nd Amendment is here to stay as well! #TCOT #MOLONLABE #2A #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,b,a,b,a,a,c,c,b,c,a,c
+433,35,"Hosea 4:8  They eat up the sin of my people, and they set their heart on their iniquity.  #pastors #Christians  #repent #SemST",None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,a,a,a,a,a,c,c,a,c,a,c
+434,129,I Can't Believe How Many Followers I Gained Today  #SemST,None,"
+
+If a political scientist considered the above sentence, which stance would she say it held towards Donald Trump?
+A: Against
+B: Favor
+C: None
+
+Constraint: Answer with only the option above that is most accurate and nothing else.",c,a,b,b,b,b,a,c,c,a,c,a,c
